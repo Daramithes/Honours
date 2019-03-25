@@ -1,0 +1,315 @@
+,Text,Classification,Sentiment
+0,"""A little over six months ago, the British people voted for change",Labour,0.0
+1,They voted to shape a brighter future for our country,Conservative,0.3818
+2,They voted to leave the European Union and embrace the world,UKIP,0.0
+3,"And they did so with their eyes open: accepting that the road ahead will be uncertain attimes, but believing that it leads towards a brighter future for their children - and theirgrandchildren too",Conservative,0.4588
+4,And it is the job of this Government to deliver it,Labour,0.0
+5, That means more than negotiating ournew relationship with the EU,Conservative,0.0
+6, It means taking the opportunity of this great moment ofnational change to step back and ask ourselves what kind of country we want to be,Conservative,0.8316
+7,My answer is clear,Labour,0.3818
+8," I want this United Kingdom to emerge from this period of changestronger, fairer, more united and more outward-looking than ever before",Conservative,0.0772
+9,"I want us to be a secure, prosperous, tolerant country - a magnet for international talentand a home to the pioneers and innovators who will shape the world ahead",Conservative,0.0772
+10," I want us tobe a truly Global Britain - the best friend and neighbour to our European partners, but acountry that reaches beyond the borders of Europe too",Green,0.8316
+11,A country that goes out into the world to build relationships with old friends and newallies alike,Non-Aligned,0.4939
+12,"I want Britain to be what we have the potential, talent and ambition to be",Conservative,0.4767
+13," A great, globaltrading nation that is respected around the world and strong, confident and united athome",Conservative,0.8885
+14,That is why this Government has a Plan for Britain,Labour,0.34
+15, One that gets us the right dealabroad but also ensures we get a better deal for ordinary working people at home,Conservative,0.4404
+16,It's why that plan sets out how we will use this moment of change to build a strongereconomy and a fairer society by embracing genuine economic and social reform,Conservative,0.0
+17,"Why our new Modern Industrial Strategy is being developed, to ensure every nation andarea of the United Kingdom can make the most of the opportunities ahead",Conservative,0.0
+18, Why we willgo further to reform our schools to ensure every child has the knowledge and the skillsthey need to thrive in post-Brexit Britain,Conservative,0.34
+19," Why as we continue to bring the deficit down, we will take a balanced approach byinvesting in our economic infrastructure - because it can transform the growth potentialof our economy, and improve the quality of people's lives across the whole country",Anti-Conservative,-0.0258
+20,It's why we will put the preservation of our precious Union at the heart of everything wedo,Non-Aligned,0.0
+21, Because it is only by coming together as one great union of nations and people thatwe can make the most of the opportunities ahead,Labour,0.6249
+22,The result of the referendum was not a decision to turn inward and retreat from theworld,Conservative,0.2023
+23,Because Britain's history and culture is profoundly internationalist,Labour,0.0
+24,We are a European country - and proud of our shared European heritage - but we arealso a country that has always looked beyond Europe to the wider world,Conservative,0.7717
+25," That is why weare one of the most racially diverse countries in Europe, one of the most multiculturalmembers of the European Union, and why - whether we are talking about India,Pakistan, Bangladesh, America, Australia, Canada, New Zealand, countries in Africa orthose that are closer to home in Europe - so many of us have close friends and relativesfrom across the world",Green,0.4939
+26,"Instinctively, we want to travel to, study in, trade with countries not just in Europe butbeyond the borders of our continent",LibDem,0.0772
+27," Even now as we prepare to leave the EU, we areplanning for the next biennial Commonwealth Heads of Government meeting in 2018 - areminder of our unique and proud global relationships",Conservative,0.4767
+28,And it is important to recognise this fact,LibDem,0.0
+29, June the 23rd was not the moment Britainchose to step back from the world,LibDem,0.0
+30, It was the moment we chose to build a truly GlobalBritain,Conservative,0.0
+31,I know that this - and the other reasons Britain took such a decision - is not always wellunderstood among our friends and allies in Europe,Conservative,0.4939
+32, And I know many fear that thismight herald the beginning of a greater unravelling of the EU,Anti-SNP,-0.1779
+33,But let me be clear: I do not want that to happen,Labour,0.4404
+34, It would not be in the best interests ofBritain,Non-Aligned,0.802
+35, It remains overwhelmingly and compellingly in Britain's national interest that theEU should succeed,Conservative,0.7351
+36, And that is why I hope in the months and years ahead we will allreflect on the lessons of Britain's decision to leave,Conservative,0.4404
+37,So let me take this opportunity to set out the reasons for our decision and to addressthe people of Europe directly,Green,0.0
+38,"It's not simply because our history and culture is profoundly internationalist, importantthough that is",Green,0.0
+39," Many in Britain have always felt that the United Kingdom's place in the European Unioncame at the expense of our global ties, and of a bolder embrace of free trade with thewider world",Green,0.6705
+40,There are other important reasons too,Labour,0.0
+41,Our political traditions are different,Labour,0.0
+42," Unlike other European countries, we have no writtenconstitution, but the principle of Parliamentary Sovereignty is the basis of our unwrittenconstitutional settlement",Conservative,0.0
+43, We have only a recent history of devolved governance -though it has rapidly embedded itself - and we have little history of coalitiongovernment,SNP,0.34
+44,"The public expect to be able to hold their governments to account very directly, and as aresult supranational institutions as strong as those created by the European Union sitvery uneasily in relation to our political history and way of life",Conservative,0.5106
+45,"And, while I know Britain might at times have been seen as an awkward member state,the European Union has struggled to deal with the diversitIt was a vote to restore, as we see it, our parliamentary democracy, national selfdetermination,and to become even more global and internationalist in action and inspirit",Green,0.5719
+46,"We will continue to be reliable partners, willing allies and close friends",Non-Aligned,0.4939
+47," We want to buyyour goods and services, sell you ours, trade with you as freely as possible, and workwith one another to make sure we are all safer, more secure and more prosperousthrough continued friendship",LibDem,0.8807
+48,You will still be welcome in this country as we hope our citizens will be welcome inyours,LibDem,0.4404
+49,"At a time when together we face a serious threat from our enemies, Britain's uniqueintelligence capabilities will continue to help to keep people in Europe safe fromterrorism",Conservative,0.296
+50,"And at a time when there is growing concern about European security, Britain'sservicemen and women, based in European countries including Estonia, Poland andRomania, will continue to do their duty",Conservative,0.0
+51,"We are leaving the European Union, but we are not leaving Europe",UKIP,0.0
+52,"And that is why we seek a new and equal partnership - between an independent, selfgoverning,Global Britain and our friends and allies in the EU",Conservative,0.4939
+53,"Not partial membership of the European Union, associate membership of the EuropeanUnion, or anything that leaves us half-in, half-out",LibDem,0.0
+54, We do not seek to adopt a modelalready enjoyed by other countries,Conservative,0.5994
+55, We do not seek to hold on to bits of membership aswe leave,LibDem,0.0
+56,"No, the United Kingdom is leaving the European Union",DUP,0.0
+57, And my job is to get the rightdeal for Britain as we do,Labour,0.0
+58,So today I want to outline our objectives for the negotiation ahead,Conservative,0.0772
+59," 12 objectives thatamount to one big goal: a new, positive and constructive partnership between Britainand the European Union",Conservative,0.0
+60,"And as we negotiate that partnership, we will be driven by some simple principles: wewill provide as much certainty and clarity as we can at every stage",LibDem,0.0
+61," And we will take thisopportunity to make Britain stronger, to make Britain fairer, and to build a more GlobalBritain too",Conservative,0.3818
+62,1,Non-Aligned,0.0
+63, CertaintyThe first objective is crucial,Labour,0.0
+64, We will provide certainty wherever we can,Non-Aligned,0.0
+65,We are about to enter a negotiation,Non-Aligned,0.0
+66, That means there will be give and take,Non-Aligned,0.0
+67, There willhave to be compromises,Labour,0.0
+68, It will require imagination on both sides,Non-Aligned,0.0
+69, And not everybodywill be able to know everything at every stage,Non-Aligned,0.0
+70,"But I recognise how important it is to provide business, the public sector, and everybodywith as much certainty as possible as we move through the process",LibDem,0.0
+71,"So where we can offer that certainty, we will do so",Non-Aligned,0.0
+72,That is why last year we acted quickly to give clarity about farm payments and universityfunding,Conservative,0.0
+73,"And it is why, as we repeal the European Communities Act, we will convert the ""acquis""- the body of existing EU law - into British law",UKIP,0.0
+74,This will give the country maximum certainty as we leave the EU,LibDem,0.0
+75,The same rules and laws will apply on the day after Brexit as they did before,LibDem,0.0
+76, And it willbe for the British Parliament to decide on any changes to that law after full scrutiny andproper Parliamentary debate,Green,0.0
+77,"And when it comes to Parliament, there is one other way in which I would like to providecertainty",Labour,0.3612
+78," I can confirm today that the Government will put the final deal that is agreedbetween the UK and the EU to a vote in both Houses of Parliament, before it comes intoforce",LibDem,0.0
+79,A Stronger BritainOur second guiding principle is to build a stronger Britain,Conservative,0.6369
+80,2,Non-Aligned,0.0
+81," Control of our own lawsThat means taking control of our own affairs, as those who voted in their millions toleave the European Union demanded we must",Anti-UKIP,-0.128
+82,So we will take back control of our laws and bring an end to the jurisdiction of theEuropean Court of Justice in Britain,Conservative,0.0
+83,"Leaving the European Union will mean that our laws will be made in Westminster,Edinburgh, Cardiff and Belfast",DUP,0.0
+84, And those laws will be interpreted by judges not inLuxembourg but in courts across this country,Green,0.0
+85,Because we will not have truly left the European Union if we are not in control of ourown laws,UKIP,0.0
+86,3,Non-Aligned,0.0
+87, Strengthen the UnionA stronger Britain demands that we do something else - strengthen the precious unionbetween the four nations of the United Kingdom,Conservative,0.6908
+88,"At this momentous time, it is more important than ever that we face the future together,united by what makes us strong: the bonds that unite us as a people, and our sharedinterest in the UK being an open, successful trading nation in the future",Conservative,0.7906
+89,"And I hope that same spirit of unity will apply in Northern Ireland in particular over thecoming months in the Assembly elections, and the main parties there will work togetherto re-establish a partnership government as soon as possible",DUP,0.5574
+90,"Foreign affairs are of course the responsibility of the UK Government, and in dealingwith them we act in the interests of all parts of the United Kingdom",Labour,0.4588
+91," As Prime Minister, Itake that responsibility seriously",Anti-Labour,-0.0772
+92,I have also been determined from the start that the devolved administrations should befully engaged in this process,SNP,0.0
+93,"That is why the Government has set up a Joint Ministerial Committee on EUNegotiations, so ministers from each of the UK's devolved administrations cancontribute to the process of planning for our departure from the European Union",SNP,0.34
+94,"We have already received a paper from the Scottish Government, and look forward toreceiving a paper from the Welsh Government shortly",SNP,0.0
+95, Both papers will be consideredas part of this important process,Labour,0.0
+96," We won't agree on everything, but I look forward toworking with the administrations in Scotland, Wales and Northern Ireland to deliver aBrexit that works for the whole of the United Kingdom",SNP,0.0
+97,"Part of that will mean working very carefully to ensure that - as powers are repatriatedfrom Brussels back to Britain - the right powers are returned to Westminster, and theright powers are passed to the devolved administrations of Scotland, Wales andNorthern Ireland",SNP,0.4939
+98,"As we do so, our guiding principle must be to ensure that - as we leave the EuropeanUnion - no new barriers to living and doing business within our own Union are created,That means maintaining the necessary common standards and frameworks for our owndomestic market, empowering the UK as an open, trading nation to strike the best tradedeals around the world, and protecting the common resources of our islands",LibDem,0.7003
+99,"And as we do this, I should equally be clear that no decisions currently taken by thedevolved administrations will be removed from them",SNP,0.3818
+100,4,Non-Aligned,0.0
+101," Maintain the Common Travel Area with IrelandWe cannot forget that, as we leave, the United Kingdom will share a land border withthe EU, and maintaining that Common Travel Area with the Republic of Ireland will bean important priority for the UK in the talks ahead",DUP,0.0772
+102,There has been a Common Travel Area between the UK and the Republic of Ireland formany years,DUP,0.34
+103," Indeed, it was formed before either of our two countries were members ofthe European Union",UKIP,0.0
+104,And the family ties and bonds of affection that unite our two countries mean that therewill always be a special relationship between us,Conservative,0.4019
+105,"So we will work to deliver a practical solution that allows the maintenance of theCommon Travel Area with the Republic, while protecting the integrity of the UnitedKingdom's immigration system",Conservative,0.5423
+106,"Nobody wants to return to the borders of the past, so we will make it a priority to delivera practical solution as soon as we can",Non-Aligned,0.0772
+107,The third principle is to build a fairer Britain,Labour,0.0
+108, That means ensuring it is fair to everyonewho lives and works in this country,Conservative,0.3182
+109,5,Non-Aligned,0.0
+110, Control of immigrationAnd that is why we will ensure we can control immigration to Britain from Europe,Conservative,0.0
+111,We will continue to attract the brightest and the best to work or study in Britain - indeedopenness to international talent must remain one of this country's most distinctiveassets - but that process must be managed properly so that our immigration systemserves the national interest,Conservative,0.9477
+112,So we will get control of the number of people coming to Britain from the EU,UKIP,0.0772
+113,"Because while controlled immigration can bring great benefits - filling skills shortages,delivering public services, making British businesses the world-beaters they often are -when the numbers get too high, public support for the system falters",Conservative,0.8779
+114,"In the last decade or so, we have seen record levels of net migration in Britain, and thatsheer volume has put pressure on public services, like schools, stretched ourinfrastructure, especially housing, and put a downward pressure on wages for workingclass people",Labour,0.5994
+115,"As Home Secretary for six years, I know that you cannot control immigration overallwhen there is free movement to Britain from Europe",Labour,0.5106
+116,Britain is an open and tolerant country,Conservative,0.0
+117," We will always want immigration, especiallyhigh-skilled immigration, we will always want immigration from Europe, and we will always welcome individual migrants as friends",UKIP,0.5859
+118, But the message from the public beforeand during the referendum campaign was clear: Brexit must mean control of the numberof people who come to Britain from Europe,LibDem,0.3818
+119, And that is what we will deliver,Non-Aligned,0.0
+120,6,Non-Aligned,0.0
+121," Rights for EU nationals in Britain, and British nationals in the EUFairness demands that we deal with another issue as soon as possible too",Anti-UKIP,-0.128
+122," We want toguarantee the rights of EU citizens who are already living in Britain, and the rights ofBritish nationals in other member states, as early as we can",UKIP,0.0772
+123,"I have told other EU leaders that we could give people the certainty they want straightaway, and reach such a deal now",LibDem,0.1027
+124,Many of them favour such an agreement - one or two others do not - but I wanteveryone to know that it remains an important priority for Britain - and for many othermember states - to resolve this challenge as soon as possible,Conservative,0.7269
+125, Because it is the rightand fair thing to do,Non-Aligned,0.3182
+126,7,Non-Aligned,0.0
+127, Protect workers' rightsAnd a fairer Britain is a country that protects and enhances the rights people have atwork,Labour,0.6369
+128,"That is why, as we translate the body of European law into our domestic regulations, wewill ensure that workers rights are fully protected and maintained",Non-Aligned,0.3818
+129,"Indeed, under my leadership, not only will the Government protect the rights of workers'set out in European legislation, we will build on them",Labour,0.3818
+130," Because under this ConservativeGovernment, we will make sure legal protection for workers keeps pace with thechanging labour market - and that the voices of workers are heard by the boards ofpublicly-listed companies for the first time",Labour,0.6597
+131,But the great prize for this country - the opportunity ahead - is to use this moment tobuild a truly Global Britain,Conservative,0.8126
+132, A country that reaches out to old friends and new allies alike,Non-Aligned,0.5106
+133,"A great, global, trading nation",Conservative,0.6249
+134, And one of the firmest advocates for free trade anywherein the world,LibDem,0.5106
+135,8,Non-Aligned,0.0
+136, Free trade with European marketsThat starts with our close friends and neighbours in Europe,Conservative,0.7579
+137," So as a priority, we willpursue a bold and ambitious Free Trade Agreement with the European Union",Conservative,0.8442
+138,This agreement should allow for the freest possible trade in goods and servicesbetween Britain and the EU's member states,Conservative,0.8625
+139, It should give British companies themaximum freedom to trade with and operate within European markets - and letEuropean businesses do the same in Britain,Conservative,0.6369
+140,But I want to be clear,Non-Aligned,0.4404
+141, What I am proposing cannot mean membership of the SingleMarket,LibDem,0.0
+142,"European leaders have said many times that membership means accepting the ""fourfreedoms"" of goods, capital, services and people",Conservative,0.6705
+143,"And being out of the EU but a member of the Single Market would mean complying withthe EU's rules and regulations that implement those freedoms, without having a vote onwhat those rules and regulations are",LibDem,0.6369
+144,It would mean accepting a role for the European Court of Justice that would see it stillhaving direct legal authority in our country,Green,0.4767
+145,It would to all intents and purposes mean not leaving the EU at all,UKIP,0.0
+146,And that is why both sides in the referendum campaign made it clear that a vote toleave the EU would be a vote to leave the Single Market,Conservative,0.3818
+147,So we do not seek membership of the Single Market,LibDem,0.0
+148," Instead we seek the greatestpossible access to it through a new, comprehensive, bold and ambitious Free TradeAgreement",SNP,0.7096
+149,"That Agreement may take in elements of current Single Market arrangements in certainareas - on the export of cars and lorries for example, or the freedom to provide financialservices across national borders - as it makes no sense to start again from scratchwhen Britain and the remaining Member States have adhered to the same rules for somany years",LibDem,0.8126
+150,"But I respect the position taken by European leaders who have been clear about theirposition, just as I am clear about mine",Conservative,0.8074
+151,"So an important part of the new strategic partnership we seek with the EU will be thepursuit of the greatest possible access to the Single Market, on a fully reciprocal basis,through a comprehensive Free Trade Agreement",Conservative,0.8934
+152,"And because we will no longer be members of the Single Market, we will not berequired to contribute huge sums to the EU budget",LibDem,0.3182
+153,There may be some specific European programmes in which we might want toparticipate,UKIP,0.0772
+154," If so, and this will be for us to decide, it is reasonable that we should makean appropriate contribution",SNP,0.0
+155, But the principle is clear: the days of Britain making vastcontributions to the European Union every year will end,Labour,0.3818
+156,9,Non-Aligned,0.0
+157, New trade agreements with other countriesBut it is not just trade with the EU we should be interested in,Conservative,0.7351
+158, A Global Britain must befree to strike trade agreements with countries from outside the European Union too,Conservative,0.4019
+159,"Because important though our trade with the EU is and will remain, it is clear that theUK needs to increase significantly its trade with the fastest growing export markets inthe world",Conservative,0.3818
+160,"Since joining the EU, trade as a percentage of GDP has broadly stagnated in the UK",LibDem,0.5574
+161,"That is why it is time for Britain to get out into the world and rediscover its role as agreat, global, trading nation",Conservative,0.0
+162,"This is such a priority for me that when I became Prime Minister I established, for thefirst time, a Department for International Trade, led by Liam Fox",LibDem,0.0
+163,"We want to get out into the wider world, to trade and do business all around the globe",Conservative,0.0772
+164,"Countries including China, Brazil, and the Gulf States have already expressed theirinterest in striking trade deals with us",Anti-LibDem,-0.128
+165,"We have started discussions on future trade ties with countries like Australia, NewZealand and India",Non-Aligned,0.3612
+166,"And President Elect Trump has said Britain is not ""at the back of the queue"" for a tradedeal with the United States, the world's biggest economy, but front of the line",LibDem,0.34
+167,I know my emphasis on striking trade agreements with countries outside Europe has ledto questions about whether Britain seeks to remain a member of the EU's CustomsUnion,LibDem,0.6249
+168, And it is true that full Customs Union membership prevents us from negotiatingour own comprehensive trade deals,Labour,0.4404
+169,"Now, I want Britain to be able to negotiate its own trade agreements",Conservative,0.5423
+170, But I also wanttariff-free trade with Europe and cross-border trade there to be as frictionless aspossible,Green,0.0
+171,That means I do not want Britain to be part of the Common Commercial Policy and I donot want us to be bound by the Common External Tariff,Labour,0.1531
+172, These are the elements of theCustoms Union that prevent us from striking our own comprehensive trade agreementswith other countries,Anti-Labour,-0.1027
+173, But I do want us to have a customs agreement with the EU,Conservative,0.5423
+174,"Whether that means we must reach a completely new customs agreement, become anassociate member of the Customs Union in some way, or remain a signatory to someelements of it, I hold no preconceived position",Conservative,0.5106
+175, I have an open mind on how we do it,Non-Aligned,0.0
+176," Itis not the means that matter, but the ends",Conservative,0.0258
+177,And those ends are clear: I want to remove as many barriers to trade as possible,LibDem,0.34
+178," And Iwant Britain to be free to establish our own tariff schedules at the World Trade Organisation, meaning we can reach new trade agreements not just with the EuropeanUnion but with old friends and new allies from outside Europe too",LibDem,0.8689
+179,10,Non-Aligned,0.0
+180, The best place for science and innovationA Global Britain must also be a country that looks to the future,Conservative,0.6369
+181, That means being oneof the best places in the world for science and innovation,Non-Aligned,0.6369
+182,"One of our great strengths as a nation is the breadth and depth of our academic andscientific communities, backed up by some of the world's best universities",Non-Aligned,0.91
+183, And we havea proud history of leading and supporting cutting-edge research and innovation,LibDem,0.7003
+184,"So we will also welcome agreement to continue to collaborate with our Europeanpartners on major science, research, and technology initiatives",Non-Aligned,0.4939
+185,"From space exploration to clean energy to medical technologies, Britain will remain atthe forefront of collective endeavours to better understand, and make better, the worldin which we live",Labour,0.8176
+186,11,Non-Aligned,0.0
+187," Cooperation in the fight against crime and terrorismAnd a Global Britain will continue to cooperate with its European partners in importantareas such as crime, terrorism and foreign affairs",Anti-UKIP,-0.9186
+188,"All of us in Europe face the challenge of cross-border crime, a deadly terrorist threat,and the dangers presented by hostile states",Anti-Green,-0.9118
+189," All of us share interests and values incommon, values we want to see projected around the world",Labour,0.6705
+190,"With the threats to our common security becoming more serious, our response cannotbe to cooperate with one another less, but to work together more",Anti-Labour,-0.5267
+191, I therefore want ourfuture relationship with the European Union to include practical arrangements onmatters of law enforcement and the sharing of intelligence material with our EU allies,Green,0.3612
+192,I am proud of the role Britain has played and will continue to play in promoting Europe'ssecurity,Conservative,0.8519
+193," Britain has led Europe on the measures needed to keep our continent secure -whether it is implementing sanctions against Russia following its action in Crimea,working for peace and stability in the Balkans, or securing Europe's external border",Conservative,0.34
+194, Wewill continue to work closely with our European allies in foreign and defence policy evenas we leave the EU itself,Conservative,0.0
+195,12,Non-Aligned,0.0
+196," A smooth, orderly BrexitThese are our objectives for the negotiation ahead - objectives that will help to realiseour ambition of shaping that stronger, fairer, Global Britain that we want to see",Conservative,0.6808
+197,"They are the basis for a new, strong, constructive partnership with the European Union -a partnership of friends and allies, of interests and values",Conservative,0.8591
+198, A partnership for a strong EUand a strong UK,Conservative,0.765
+199,But there is one further objective we are setting,Non-Aligned,0.0
+200," For as I have said before - it is in noone's interests for there to be a cliff-edge for business or a threat to stability, as wechange from our existing relationship to a new partnership with the EU",Anti-Conservative,-0.1027
+201,"By this, I do not mean that we will seek some form of unlimited transitional status, inwhich we find ourselves stuck forever in some kind of permanent political purgatory",UKIP,0.34
+202,"That would not be good for Britain, but nor do I believe it would be good for the EU",Conservative,0.7003
+203,"Instead, I want us to have reached an agreement about our future partnership by thetime the two-year Article Fifty process has concluded",Conservative,0.7184
+204,"From that point onwards, we believe a phased process of implementation, in which bothBritain and the EU institutions and member states prepare for the new arrangementsthat will exist between us will be in our mutual self-interest",Conservative,0.0
+205, This will give businessesenough time to plan and prepare for those new arrangements,Labour,0.0
+206,"This might be about our immigration controls, customs systems or the way in which wecooperate on criminal justice matters",LibDem,0.0258
+207, Or it might be about the future legal andregulatory framework for financial services,Labour,0.128
+208," For each issue, the time we need to phaseinthe new arrangements may differ",Labour,0.0
+209," Some might be introduced very quickly, somemight take longer",Non-Aligned,0.0
+210, And the interim arrangements we rely upon are likely to be a matterof negotiation,Green,0.3612
+211,"But the purpose is clear: we will seek to avoid a disruptive cliff-edge, and we will doeverything we can to phase in the new arrangements we require as Britain and the EUmove towards our new partnership",SNP,0.1027
+212,"So, these are the objectives we have set",Non-Aligned,0.0
+213, Certainty wherever possible,Non-Aligned,0.0
+214, Control of ourown laws,Conservative,0.0
+215, Strengthening the United Kingdom,Conservative,0.3182
+216, Maintaining the Common Travel Areawith Ireland,SNP,0.0
+217,Control of immigration,Labour,0.0
+218," Rights for EU nationals in Britain, and British nationals in the EU",UKIP,0.0
+219,Enhancing rights for workers,Labour,0.0
+220, Free trade with European markets,UKIP,0.5106
+221, New tradeagreements with other countries,Labour,0.0
+222, A leading role in science and innovation,Non-Aligned,0.0
+223," Cooperationon crime, terrorism and foreign affairs",Anti-UKIP,-0.7845
+224," And a phased approach, delivering a smooth andorderly Brexit",Conservative,0.0
+225,This is the framework of a deal that will herald a new partnership between the UK andthe EU,SNP,0.0
+226,"It is a comprehensive and carefully considered plan that focuses on the ends, not justthe means - with its eyes fixed firmly on the future, and on the kind of country we will beonce we leave",Conservative,0.765
+227,It reflects the hard work of many in this room today who have worked tirelessly to bringit together and to prepare this country for the negotiation ahead,Anti-Labour,-0.1027
+228,"And it will, I know, be debated and discussed at length",Conservative,0.0
+229, That is only right,Non-Aligned,0.0
+230," But those whourge us to reveal more - such as the blow-by-blow details of our negotiating strategy,the areas in which we might compromise, the places where we think there are potentialtrade-offs - will not be acting in the national interest",Labour,0.4588
+231,Because this is not a game or a time for opposition for opposition's sake,Non-Aligned,0.0
+232, It is a crucialand sensitive negotiation that will define the interests and the success of our country formany years to come,Labour,0.7717
+233, And it is vital that we maintain our discipline,Non-Aligned,0.296
+234,That is why I have said before - and will continue to say - that every stray word andevery hyped up media report is going to make it harder for us to get the right deal forBritain,Conservative,0.0
+235,"Our opposite numbers in the European Commission know it, which is why they arekeeping their discipline",UKIP,0.0772
+236," And the ministers in this Government know it too, which is whywe will also maintain ours",Labour,0.0
+237,"So however frustrating some people find it, the Government will not be pressured intosaying more than I believe it is in our national interest to say",LibDem,0.4588
+238," Because it is not my job tofill column inches with daily updates, but to get the right deal for Britain",Labour,0.0
+239, And that is whatI intend to do,Non-Aligned,0.0
+240,I am confident that a deal - and a new strategic partnership between the UK and the EU- can be achieved,Conservative,0.0
+241,"This is firstly because, having held conversations with almost every leader from everysingle EU member state; having spent time talking to the senior figures from theEuropean institutions, including President Tusk, President Juncker, and PresidentSchulz; and after my Cabinet colleagues David Davis, Philip Hammond and BorisJohnson have done the same with their interlocutors, I am confident that the vastmajority want a positive relationship between the UK and the EU after Brexit",Conservative,0.0772
+242,And I am confident that the objectives I am setting out today are consistent with theneeds of the EU and its Member States,Conservative,0.0
+243,"That is why our objectives include a proposed Free Trade Agreement between Britainand the European Union, and explicitly rule out membership of the EU's Single Market",UKIP,0.7579
+244," Because when the EU's leaders say they believe the four freedoms of the Single Marketare indivisible, we respect that position",Conservative,0.8074
+245," When the 27 Member States say they want tocontinue their journey inside the European Union, we not only respect that fact butsupport it",Labour,0.5267
+246,"Because we do not want to undermine the Single Market, and we do not want toundermine the European Union",UKIP,0.1531
+247, We want the EU to be a success and we want itsremaining member states to prosper,Conservative,0.6486
+248, And of course we want the same for Britain,Labour,0.0772
+249,And the second reason I believe it is possible to reach a good deal is that the kind ofagreement I have described today is the economically rational thing that both Britainand the EU should aim for,LibDem,0.7506
+250, Because trade is not a zero sum game: more of it makes usall more prosperous,Non-Aligned,0.0
+251,"Free trade between Britain and the European Union means more trade, and more trademeans more jobs and more wealth creation",Labour,0.8225
+252," The erection of new barriers to trade,meanwhile, means the reverse: less trade, fewer jobs, lower growth",Anti-Conservative,-0.0258
+253,The third and final reason I believe we can come to the right agreement is thatcooperation between Britain and the EU is needed not just when it comes to trade butwhen it comes to our security too,LibDem,0.4939
+254,Britain and France are Europe's only two nuclear powers,Green,0.0
+255, We are the only twoEuropean countries with permanent seats on the United Nations Security Council,Conservative,0.0
+256,Britain's armed forces are a crucial part of Europe's collective defence,Conservative,0.0
+257,And our intelligence capabilities - unique in Europe - have already saved countless livesin very many terrorist plots that have been thwarted in countries across our continent,Anti-Conservative,-0.3612
+258,"After Brexit, Britain wants to be a good friend and neighbour in every way, and thatincludes defending the safety and security of all of our citizens",Labour,0.7506
+259,So I believe the framework I have outlined today is in Britain's interests,Conservative,0.4588
+260, It is in Europe'sinterests,Non-Aligned,0.0
+261, And it is in the interests of the wider world,Labour,0.4588
+262,But I must be clear,LibDem,0.3818
+263, Britain wants to remain a good friend and neighbour to Europe,Conservative,0.7506
+264, YetI know there are some voices calling for a punitive deal that punishes Britain anddiscourages other countries from taking the same path,Anti-Conservative,-0.5267
+265,That would be an act of calamitous self-harm for the countries of Europe,LibDem,0.0
+266, And it wouldnot be the act of a friend,Non-Aligned,0.4939
+267,Britain would not - indeed we could not - accept such an approach,LibDem,0.3818
+268, And while I amconfident that this scenario need never arise - while I am sure a positive agreement canbe reached - I am equally clear that no deal for Britain is better than a bad deal forBritain,Conservative,0.5168
+269,Because we would still be able to trade with Europe,LibDem,0.0
+270, We would be free to strike tradedeals across the world,LibDem,0.4215
+271, And we would have the freedom to set the competitive tax ratesand embrace the policies that would attract the world's best companies and biggestinvestors to Britain,Conservative,0.8979
+272,And - if we were excluded from accessing the Single Market - we would be free tochange the basis of Britain's economic model,Labour,0.5106
+273,"But for the EU, it would mean new barriers to trade with one of the biggest economies inthe world",Anti-Conservative,-0.128
+274, It would jeopardise investments in Britain by EU companies worth more thanhalf a trillion pounds,UKIP,0.2263
+275, It would mean a loss of access for European firms to the financialservices of the City of London,Anti-LibDem,-0.3182
+276,It would risk exports from the EU to Britain worth around £290 billion every year,Anti-Conservative,-0.0516
+277, And itwould disrupt the sophisticated and integrated supply chains upon which many EUcompanies rely,Green,0.0
+278,Important sectors of the EU economy would also suffer,Anti-Conservative,-0.5423
+279,"We are a crucial - profitable - export market for Europe's automotive industry, as well assectors including energy, food and drink, chemicals, pharmaceuticals, and agriculture",Labour,0.6124
+280,These sectors employ millions of people around Europe,Conservative,0.0
+281,"And I do not believe that the EU's leaders will seriously tell German exporters, Frenchfarmers, Spanish fishermen, the young unemployed of the Eurozone, and millions ofothers, that they want to make them poorer, just to punish Britain and make a politicalpoint",Anti-Conservative,-0.7096
+282,For all these reasons - and because of our shared values and the spirit of goodwill thatexists on both sides - I am confident that we will follow a better path,LibDem,0.7003
+283, I am confident thata positive agreement can be reached,LibDem,0.5106
+284,It is right that the Government should prepare for every eventuality - but to do so in theknowledge that a constructive and optimistic approach to the negotiations to come is inthe best interests of Europe and the best interests of Britain,Conservative,0.9571
+285,"We do not approach these negotiations expecting failure, but anticipating success",Labour,0.5719
+286,"Because we are a great, global nation with so much to offer Europe and so much tooffer the world",Green,0.6249
+287,One of the world's largest and strongest economies,Labour,0.4404
+288," With the finest intelligenceservices, the bravest armed forces, the most effective hard and soft power, andfriendships, partnerships and alliances in every continent",Conservative,0.4404
+289,And another thing that's important,Non-Aligned,0.0
+290, The essential ingredient of our success,Non-Aligned,0.5719
+291, Thestrength and support of 65 million people willing us to make it happen,Labour,0.4019
+292,"Because after all the division and discord, the country is coming together",Anti-Labour,-0.4019
+293,The referendum was divisive at times,Conservative,0.0
+294, And those divisions have taken time to heal,Non-Aligned,0.0
+295,"But one of the reasons that Britain's democracy has been such a success for so manyyears is that the strength of our identity as one nation, the respect we show to oneanother as fellow citizens, and the importance we attach to our institutions means thatwhen a vote has been held we all respect the result",Conservative,0.9509
+296,The victors have the responsibility to act magnanimously,Labour,0.0
+297, The losers have theresponsibility to respect the legitimacy of the outcome,Anti-Labour,-0.0772
+298, And the country comes together,Labour,0.0
+299,And that is what we are seeing today,Conservative,0.0
+300," Business isn't calling to reverse the result, butplanning to make a success of it",LibDem,0.5719
+301, The House of Commons has voted overwhelmingly forus to get on with it,Labour,0.34
+302, And the overwhelming majority of people - however they voted -want us to get on with it too,Anti-LibDem,-0.1027
+303,So that is what we will do,Non-Aligned,0.0
+304,"Not merely forming a new partnership with Europe, but building a stronger, fairer, moreGlobal Britain too",Conservative,0.3818
+305,And let that be the legacy of our time,Non-Aligned,0.0
+306, The prize towards which we work,Non-Aligned,0.5106
+307, The destinationat which we arrive once the negotiation is done,Labour,0.0
+308,"And let us do it not for ourselves, but for those who follow",Non-Aligned,0.0
+309, For the country's childrenand grandchildren too,Labour,0.0
+310,"So that when future generations look back at this time, they will judge us not only by thedecision that we made, but by what we made of that decision",LibDem,0.0
+311,They will see that we shaped them a brighter future,Conservative,0.3818
+312,They will know that we built them a better Britain,Labour,0.4404
+313,"""",Non-Aligned,0.0

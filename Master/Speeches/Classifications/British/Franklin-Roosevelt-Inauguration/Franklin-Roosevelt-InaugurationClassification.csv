@@ -1,0 +1,92 @@
+,Text,Classification,Sentiment
+0,This is a day of national consecration,Non-Aligned,0.0
+1," And I am certain that on this day my fellow Americans expect that on my induction into the Presidency, I will address them with a candor and a decision which the present situation of our people impels",Non-Aligned,0.2732
+2,"This is preeminently the time to speak the truth, the whole truth, frankly and boldly",Non-Aligned,0.5574
+3, Nor need we shrink from honestly facing conditions in our country today,Labour,0.0
+4," This great Nation will endure, as it has endured, will revive and will prosper",Conservative,0.7579
+5,"So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself — nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance",Non-Aligned,-0.8402
+6," In every dark hour of our national life, a leadership of frankness and of vigor has met with that understanding and support of the people themselves which is essential to victory",LibDem,0.7351
+7, And I am convinced that you will again give that support to leadership in these critical days,LibDem,0.1531
+8,In such a spirit on my part and on yours we face our common difficulties,Labour,0.1779
+9," They concern, thank God, only material things",Non-Aligned,0.5574
+10, Values have shrunk to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; and the savings of many years in thousands of families are gone,Conservative,0.7269
+11," More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return",Anti-Conservative,-0.25
+12, Only a foolish optimist can deny the dark realities of the moment,LibDem,0.3182
+13,And yet our distress comes from no failure of substance,Anti-Labour,-0.5267
+14, We are stricken by no plague of locusts,Anti-Conservative,-0.5106
+15," Compared with the perils which our forefathers conquered, because they believed and were not afraid, we have still much to be thankful for",Anti-Green,-0.0516
+16, Nature still offers her bounty and human efforts have multiplied it,Non-Aligned,0.0
+17," Plenty is at our doorstep, but a generous use of it languishes in the very sight of the supply",Conservative,0.0
+18,"Primarily, this is because the rulers of the exchange of mankind’s goods have failed, through their own stubbornness and their own incompetence, have admitted their failure, and have abdicated",Non-Aligned,-0.3612
+19," Practices of the unscrupulous money changers stand indicted in the court of public opinion, rejected by the hearts and minds of men",Anti-Green,-0.4019
+20,"True, they have tried",Non-Aligned,0.4215
+21, But their efforts have been cast in the pattern of an outworn tradition,Non-Aligned,0.0
+22," Faced by failure of credit, they have proposed only the lending of more money",Labour,0.3818
+23," Stripped of the lure of profit by which to induce our people to follow their false leadership, they have resorted to exhortations, pleading tearfully for restored confidence",Green,0.4404
+24, They only know the rules of a generation of self-seekers,Non-Aligned,0.0
+25," They have no vision, and when there is no vision the people perish",Non-Aligned,0.4588
+26,"Yes, the money changers have fled from their high seats in the temple of our civilization",Non-Aligned,0.0
+27, We may now restore that temple to the ancient truths,Non-Aligned,0.3182
+28, The measure of that restoration lies in the extent to which we apply social values more noble than mere monetary profit,Green,0.4404
+29,"Happiness lies not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort",LibDem,0.743
+30," The joy, the moral stimulation of work no longer must be forgotten in the mad chase of evanescent profits",Labour,0.3818
+31," These dark days, my friends, will be worth all they cost us if they teach us that our true destiny is not to be ministered unto but to minister to ourselves, to our fellow men",DUP,0.7845
+32,Recognition of that falsity of material wealth as the standard of success goes hand in hand with the abandonment of the false belief that public office and high political position are to be valued only by the standards of pride of place and personal profit; and there must be an end to a conduct in banking and in business which too often has given to a sacred trust the likeness of callous and selfish wrongdoing,Green,0.9628
+33," Small wonder that confidence languishes, for it thrives only on honesty, on honor, on the sacredness of obligations, on faithful protection, and on unselfish performance; without them it cannot live",Non-Aligned,0.8225
+34,"Restoration calls, however, not for changes in ethics alone",Non-Aligned,0.0
+35," This Nation is asking for action, and action now",Labour,0.0
+36,Our greatest primary task is to put people to work,SNP,0.6369
+37, This is no unsolvable problem if we face it wisely and courageously,LibDem,0.1027
+38," It can be accomplished in part by direct recruiting by the Government itself, treating the task as we would treat the emergency of a war, but at the same time, through this employment, accomplishing great — greatly needed projects to stimulate and reorganize the use of our great natural resources",Green,0.936
+39,"Hand in hand with that we must frankly recognize the overbalance of population in our industrial centers and, by engaging on a national scale in a redistribution, endeavor to provide a better use of the land for those best fitted for the land",Non-Aligned,0.9432
+40,"Yes, the task can be helped by definite efforts to raise the values of agricultural products, and with this the power to purchase the output of our cities",Green,0.4019
+41, It can be helped by preventing realistically the tragedy of the growing loss through foreclosure of our small homes and our farms,SNP,0.128
+42," It can be helped by insistence that the Federal, the State, and the local governments act forthwith on the demand that their cost be drastically reduced",Labour,0.296
+43," It can be helped by the unifying of relief activities which today are often scattered, uneconomical, unequal",Green,0.7003
+44, It can be helped by national planning for and supervision of all forms of transportation and of communications and other utilities that have a definitely public character,Labour,0.4019
+45," There are many ways in which it can be helped, but it can never be helped by merely talking about it",Conservative,0.6597
+46,We must act,LibDem,0.0
+47, We must act quickly,LibDem,0.0
+48,"And finally, in our progress towards a resumption of work, we require two safeguards against a return of the evils of the old order",Conservative,0.0
+49, There must be a strict supervision of all banking and credits and investments,Labour,0.3818
+50, There must be an end to speculation with other people’s money,Labour,0.0
+51, And there must be provision for an adequate but sound currency,LibDem,0.0
+52,"These, my friends, are the lines of attack",Non-Aligned,0.0258
+53," I shall presently urge upon a new Congress in special session detailed measures for their fulfillment, and I shall seek the immediate assistance of the 48 States",Non-Aligned,0.4019
+54,Through this program of action we address ourselves to putting our own national house in order and making income balance outgo,Non-Aligned,0.0
+55," Our international trade relations, though vastly important, are in point of time, and necessity, secondary to the establishment of a sound national economy",LibDem,0.0
+56," I favor, as a practical policy, the putting of first things first",Non-Aligned,0.4019
+57, I shall spare no effort to restore world trade by international economic readjustment; but the emergency at home cannot wait on that accomplishment,LibDem,0.4215
+58,The basic thought that guides these specific means of national recovery is not nationally — narrowly nationalistic,Conservative,0.0
+59," It is the insistence, as a first consideration, upon the interdependence of the various elements in and parts of the United States of America — a recognition of the old and permanently important manifestation of the American spirit of the pioneer",Non-Aligned,0.1779
+60, It is the way to recovery,Non-Aligned,0.0
+61, It is the immediate way,Non-Aligned,0.0
+62, It is the strongest assurance that recovery will endure,Non-Aligned,0.4404
+63,"In the field of world policy, I would dedicate this Nation to the policy of the good neighbor: the neighbor who resolutely respects himself and, because he does so, respects the rights of others; the neighbor who respects his obligations and respects the sanctity of his agreements in and with a world of neighbors",Conservative,0.9552
+64,"If I read the temper of our people correctly, we now realize, as we have never realized before, our interdependence on each other; that we can not merely take, but we must give as well; that if we are to go forward, we must move as a trained and loyal army willing to sacrifice for the good of a common discipline, because without such discipline no progress can be made, no leadership becomes effective",Conservative,0.453
+65,"We are, I know, ready and willing to submit our lives and our property to such discipline, because it makes possible a leadership which aims at the larger good",Non-Aligned,0.4404
+66," This, I propose to offer, pledging that the larger purposes will bind upon us, bind upon us all as a sacred obligation with a unity of duty hitherto evoked only in times of armed strife",DUP,0.0
+67,"With this pledge taken, I assume unhesitatingly the leadership of this great army of our people dedicated to a disciplined attack upon our common problems",Anti-Conservative,-0.1779
+68,"Action in this image, action to this end is feasible under the form of government which we have inherited from our ancestors",Labour,0.0
+69," Our Constitution is so simple, so practical that it is possible always to meet extraordinary needs by changes in emphasis and arrangement without loss of essential form",LibDem,0.2411
+70, That is why our constitutional system has proved itself the most superbly enduring political mechanism the modern world has ever seen,UKIP,0.5859
+71,"It has met every stress of vast expansion of territory, of foreign wars, of bitter internal strife, of world relations",Anti-Conservative,-0.7964
+72," And it is to be hoped that the normal balance of executive and legislative authority may be wholly equal, wholly adequate to meet the unprecedented task before us",Labour,0.4404
+73, But it may be that an unprecedented demand and need for undelayed action may call for temporary departure from that normal balance of public procedure,Anti-Labour,-0.128
+74,I am prepared under my constitutional duty to recommend the measures that a stricken nation in the midst of a stricken world may require,Anti-SNP,-0.6249
+75," These measures, or such other measures as the Congress may build out of its experience and wisdom, I shall seek, within my constitutional authority, to bring to speedy adoption",Non-Aligned,0.6249
+76,"But, in the event that the Congress shall fail to take one of these two courses, in the event that the national emergency is still critical, I shall not evade the clear course of duty that will then confront me",Anti-Labour,-0.5719
+77," I shall ask the Congress for the one remaining instrument to meet the crisis — broad Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded by a foreign foe",Anti-Labour,-0.4019
+78,"For the trust reposed in me, I will return the courage and the devotion that befit the time",LibDem,0.5106
+79, I can do no less,Non-Aligned,0.0
+80,We face the arduous days that lie before us in the warm courage of national unity; with the clear consciousness of seeking old and precious moral values; with the clean satisfaction that comes from the stern performance of duty by old and young alike,Green,0.7351
+81," We aim at the assurance of a rounded, a permanent national life",Non-Aligned,0.0
+82,We do not distrust the — the future of essential democracy,Anti-Labour,-0.4215
+83, The people of the United States have not failed,Non-Aligned,-0.5423
+84," In their need they have registered a mandate that they want direct, vigorous action",Labour,0.34
+85, They have asked for discipline and direction under leadership,Non-Aligned,0.0
+86, They have made me the present instrument of their wishes,Non-Aligned,0.4019
+87, In the spirit of the gift I take it,Non-Aligned,0.5574
+88,"In this dedication — In this dedication of a Nation, we humbly ask the blessing of God",Non-Aligned,0.5994
+89,May He protect each and every one of us,Non-Aligned,0.3818
+90,May He guide me in the days to come,Non-Aligned,0.0

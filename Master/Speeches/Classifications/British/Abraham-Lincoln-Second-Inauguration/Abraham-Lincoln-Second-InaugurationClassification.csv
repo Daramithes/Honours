@@ -1,0 +1,26 @@
+,Text,Classification,Sentiment
+0,Fellow-Countrymen:AT this second appearing to take the oath of the Presidential office there is less occasion for an extended address than there was at the first,Labour,0.1082
+1, Then a statement somewhat in detail of a course to be pursued seemed fitting and proper,Non-Aligned,0.3612
+2," Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention and engrosses the energies of the nation, little that is new could be presented",SNP,0.6249
+3," The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself, and it is, I trust, reasonably satisfactory and encouraging to all",Green,0.802
+4," With high hope for the future, no prediction in regard to it is ventured",SNP,0.4404
+5,On the occasion corresponding to this four years ago all thoughts were anxiously directed to an impending civil war,Anti-LibDem,-0.7096
+6," All dreaded it, all sought to avert it",Anti-Labour,-0.5719
+7," While the inaugural address was being delivered from this place, devoted altogether to saving the Union without war, urgent agents were in the city seeking to destroy it without war—seeking to dissolve the Union and divide effects by negotiation",Labour,0.308
+8," Both parties deprecated war, but one of them would make war rather than let the nation survive, and the other would accept war rather than let it perish, and the war came",Anti-UKIP,-0.9325
+9,"One-eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the southern part of it",Non-Aligned,0.0
+10, These slaves constituted a peculiar and powerful interest,Labour,0.5574
+11, All knew that this interest was somehow the cause of the war,Anti-LibDem,-0.2263
+12," To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union even by war, while the Government claimed no right to do more than to restrict the territorial enlargement of it",Anti-Conservative,-0.128
+13, Neither party expected for the war the magnitude or the duration which it has already attained,SNP,0.6753
+14, Neither anticipated that the cause of the conflict might cease with or even before the conflict itself should cease,Non-Aligned,0.4449
+15," Each looked for an easier triumph, and a result less fundamental and astounding",Labour,0.8085
+16," Both read the same Bible and pray to the same God, and each invokes His aid against the other",Non-Aligned,0.5267
+17," It may seem strange that any men should dare to ask a just God’s assistance in wringing their bread from the sweat of other men’s faces, but let us judge not, that we be not judged",LibDem,0.2732
+18, The prayers of both could not be answered,Non-Aligned,0.0
+19, That of neither has been answered fully,Anti-Labour,-0.2584
+20, The Almighty has His own purposes,Non-Aligned,0.34
+21," “Woe unto the world because of offenses; for it must needs be that offenses come, but woe to that man by whom the offense cometh",Anti-Green,-0.6808
+22,"” If we shall suppose that American slavery is one of those offenses which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South this terrible war as the woe due to those by whom the offense came, shall we discern therein any departure from those divine attributes which the believers in a living God always ascribe to Him? Fondly do we hope, fervently do we pray, that this mighty scourge of war may speedily pass away",Anti-UKIP,-0.2732
+23," Yet, if God wills that it continue until all the wealth piled by the bondsman’s two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said “the judgments of the Lord are true and righteous altogether",Labour,0.7184
+24,"”With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation’s wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations",DUP,0.7845

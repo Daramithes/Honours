@@ -1,0 +1,90 @@
+,Text,Classification,Sentiment
+0,"First, I should like to express my gratitude to the radio and television networks for the opportunities they have given me over the years to bring reports and messages to our nation",LibDem,0.3612
+1, My special thanks go to them for the opportunity of addressing you this evening,Conservative,0.6369
+2,"Three days from now, after half century in the service of our country, I shall lay down the responsibilities of office as, in traditional and solemn ceremony, the authority of the Presidency is vested in my successor",Labour,0.1531
+3," This evening, I come to you with a message of leave-taking and farewell, and to share a few final thoughts with you, my countrymen",LibDem,0.296
+4,"Like every other — Like every other citizen, I wish the new President, and all who will labor with him, Godspeed",Non-Aligned,0.7717
+5, I pray that the coming years will be blessed with peace and prosperity for all,Conservative,0.6249
+6,"Our people expect their President and the Congress to find essential agreement on issues of great moment, the wise resolution of which will better shape the future of the nation",Conservative,0.9231
+7," My own relations with the Congress, which began on a remote and tenuous basis when, long ago, a member of the Senate appointed me to West Point, have since ranged to the intimate during the war and immediate post-war period, and finally to the mutually interdependent during these past eight years",Non-Aligned,-0.5994
+8," In this final relationship, the Congress and the Administration have, on most vital issues, cooperated well, to serve the nation good, rather than mere partisanship, and so have assured that the business of the nation should go forward",Conservative,0.7351
+9," So, my official relationship with the Congress ends in a feeling — on my part — of gratitude that we have been able to do so much together",Non-Aligned,0.0
+10,We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations,Green,0.3818
+11, Three of these involved our own country,Labour,0.0
+12," Despite these holocausts, America is today the strongest, the most influential, and most productive nation in the world",LibDem,0.4404
+13," Understandably proud of this pre-eminence, we yet realize that America’s leadership and prestige depend, not merely upon our unmatched material progress, riches, and military strength, but on how we use our power in the interests of world peace and human betterment",Non-Aligned,0.9559
+14,"Throughout America’s adventure in free government, our basic purposes have been to keep the peace, to foster progress in human achievement, and to enhance liberty, dignity, and integrity among peoples and among nations",Green,0.7269
+15, To strive for less would be unworthy of a free and religious people,Non-Aligned,0.4654
+16," Any failure traceable to arrogance, or our lack of comprehension, or readiness to sacrifice would inflict upon us grievous hurt, both at home and abroad",Anti-DUP,-0.6908
+17,Progress toward these noble goals is persistently threatened by the conflict now engulfing the world,Non-Aligned,-0.2732
+18," It commands our whole attention, absorbs our very beings",Non-Aligned,0.0
+19," We face a hostile ideology global in scope, atheistic in character, ruthless in purpose, and insiduous [insidious] in method",Green,0.0
+20," Unhappily, the danger it poses promises to be of indefinite duration",Anti-Labour,-0.5267
+21," To meet it successfully, there is called for, not so much the emotional and transitory sacrifices of crisis, but rather those which enable us to carry forward steadily, surely, and without complaint the burdens of a prolonged and complex struggle with liberty the stake",Conservative,0.8517
+22," Only thus shall we remain, despite every provocation, on our charted course toward permanent peace and human betterment",LibDem,0.4404
+23,Crises there will continue to be,Non-Aligned,0.0
+24," In meeting them, whether foreign or domestic, great or small, there is a recurring temptation to feel that some spectacular and costly action could become the miraculous solution to all current difficulties",SNP,0.6249
+25," A huge increase in newer elements of our defenses; development of unrealistic programs to cure every ill in agriculture; a dramatic expansion in basic and applied research — these and many other possibilities, each possibly promising in itself, may be suggested as the only way to the road we wish to travel",Green,0.296
+26,"But each proposal must be weighed in the light of a broader consideration the need to maintain balance in and among national programs, balance between the private and the public economy, balance between the cost and hoped for advantages, balance between the clearly necessary and the comfortably desirable, balance between our essential requirements as a nation and the duties imposed by the nation upon the individual, balance between actions of the moment and the national welfare of the future",Conservative,0.6597
+27, Good judgment seeks balance and progress,Conservative,0.6908
+28, Lack of it eventually finds imbalance and frustration,Anti-LibDem,-0.3182
+29," The record of many decades stands as proof that our people and their Government have, in the main, understood these truths and have responded to them well, in the face of threat and stress",Anti-Labour,-0.4215
+30,"But threats, new in kind or degree, constantly arise",Non-Aligned,0.0
+31," Of these, I mention two only",Non-Aligned,0.0
+32,A vital element in keeping the peace is our military establishment,UKIP,0.296
+33," Our arms must be mighty, ready for instant action, so that no potential aggressor may be tempted to risk his own destruction",Anti-Green,-0.743
+34," Our military organization today bears little relation to that known of any of my predecessors in peacetime, or, indeed, by the fighting men of World War II or Korea",Anti-LibDem,-0.7579
+35,"Until the latest of our world conflicts, the United States had no armaments industry",Anti-Labour,-0.3182
+36," American makers of plowshares could, with time and as required, make swords as well",Non-Aligned,0.2732
+37, But we can no longer risk emergency improvisation of national defense,Non-Aligned,-0.2732
+38, We have been compelled to create a permanent armaments industry of vast proportions,Conservative,0.0
+39," Added to this, three and a half million men and women are directly engaged in the defense establishment",Non-Aligned,0.0
+40, We annually spend on military security alone more than the net income of all United States cooperations — corporations,Labour,0.0
+41,Now this conjunction of an immense military establishment and a large arms industry is new in the American experience,Non-Aligned,0.0
+42," The total influence — economic, political, even spiritual — is felt in every city, every Statehouse, every office of the Federal government",Labour,0.0
+43, We recognize the imperative need for this development,Non-Aligned,0.0
+44," Yet, we must not fail to comprehend its grave implications",Anti-Labour,-0.7269
+45," Our toil, resources, and livelihood are all involved",Green,0.2023
+46, So is the very structure of our society,Non-Aligned,0.0
+47,"In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex",LibDem,0.0
+48, The potential for the disastrous rise of misplaced power exists and will persist,LibDem,0.0
+49, We must never let the weight of this combination endanger our liberties or democratic processes,Non-Aligned,0.0
+50, We should take nothing for granted,Labour,0.3612
+51," Only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together",Non-Aligned,0.5423
+52,"Akin to, and largely responsible for the sweeping changes in our industrial-military posture, has been the technological revolution during recent decades",Non-Aligned,0.34
+53," In this revolution, research has become central; it also becomes more formalized, complex, and costly",Conservative,0.34
+54," A steadily increasing share is conducted for, by, or at the direction of, the Federal government",Labour,0.296
+55,"Today, the solitary inventor, tinkering in his shop, has been overshadowed by task forces of scientists in laboratories and testing fields",Conservative,0.34
+56," In the same fashion, the free university, historically the fountainhead of free ideas and scientific discovery, has experienced a revolution in the conduct of research",Non-Aligned,0.8402
+57," Partly because of the huge costs involved, a government contract becomes virtually a substitute for intellectual curiosity",Green,0.3182
+58, For every old blackboard there are now hundreds of new electronic computers,Non-Aligned,0.0
+59," The prospect of domination of the nation’s scholars by Federal employment, project allocations, and the power of money is ever present — and is gravely to be regarded",Anti-Green,-0.1027
+60,"Yet, in holding scientific research and discovery in respect, as we should, we must also be alert to the equal and opposite danger that public policy could itself become the captive of a scientific-technological elite",LibDem,0.2263
+61,"It is the task of statesmanship to mold, to balance, and to integrate these and other forces, new and old, within the principles of our democratic system — ever aiming toward the supreme goals of our free society",LibDem,0.5106
+62,Another factor in maintaining balance involves the element of time,Non-Aligned,0.0
+63," As we peer into society’s future, we — you and I, and our government — must avoid the impulse to live only for today, plundering for our own ease and convenience the precious resources of tomorrow",Anti-Green,-0.296
+64, We cannot mortgage the material assets of our grandchildren without risking the loss also of their political and spiritual heritage,Conservative,0.6458
+65," We want democracy to survive for all generations to come, not to become the insolvent phantom of tomorrow",SNP,0.0772
+66,"During the long lane of the history yet to be written, America knows that this world of ours, ever growing smaller, must avoid becoming a community of dreadful fear and hate, and be, instead, a proud confederation of mutual trust and respect",Anti-Labour,-0.3818
+67, Such a confederation must be one of equals,Non-Aligned,0.0
+68," The weakest must come to the conference table with the same confidence as do we, protected as we are by our moral, economic, and military strength",Labour,0.3612
+69," That table, though scarred by many fast frustrations — past frustrations, cannot be abandoned for the certain agony of disarmament — of the battlefield",Anti-LibDem,-0.5267
+70,"Disarmament, with mutual honor and confidence, is a continuing imperative",Non-Aligned,0.4939
+71," Together we must learn how to compose differences, not with arms, but with intellect and decent purpose",Labour,0.4588
+72," Because this need is so sharp and apparent, I confess that I lay down my official responsibilities in this field with a definite sense of disappointment",Anti-LibDem,-0.4019
+73," As one who has witnessed the horror and the lingering sadness of war, as one who knows that another war could utterly destroy this civilization which has been so slowly and painfully built over thousands of years, I wish I could say tonight that a lasting peace is in sight",Anti-Green,-0.9423
+74,"Happily, I can say that war has been avoided",Anti-SNP,-0.5719
+75, Steady progress toward our ultimate goal has been made,LibDem,0.6369
+76, But so much remains to be done,Conservative,0.0
+77," As a private citizen, I shall never cease to do what little I can to help the world advance along that road",Anti-LibDem,-0.3089
+78,"So, in this, my last good night to you as your President, I thank you for the many opportunities you have given me for public service in war and in peace",LibDem,0.128
+79, I trust in that — in that — in that service you find some things worthy,Conservative,0.5106
+80," As for the rest of it, I know you will find ways to improve performance in the future",Non-Aligned,0.0
+81,"You and I, my fellow citizens, need to be strong in our faith that all nations, under God, will reach the goal of peace with justice",Green,0.8074
+82," May we be ever unswerving in devotion to principle, confident but humble with power, diligent in pursuit of the Nations’ great goals",LibDem,0.6249
+83,"To all the peoples of the world, I once more give expression to America’s prayerful and continuing aspiration We pray that peoples of all faiths, all races, all nations, may have their great human needs satisfied; that those now denied opportunity shall come to enjoy it to the full; that all who yearn for freedom may experience its few spiritual blessings",Non-Aligned,0.9607
+84," Those who have freedom will understand, also, its heavy responsibility; that all who are insensitive to the needs of others will learn charity; and that the sources — scourges of poverty, disease, and ignorance will be made [to] disappear from the earth; and that in the goodness of time, all peoples will come to live together in a peace guaranteed by the binding force of mutual respect and love",Green,0.926
+85,"Now, on Friday noon, I am to become a private citizen",Labour,0.0
+86, I am proud to do so,Labour,0.4767
+87, I look forward to it,Conservative,0.0
+88,"Thank you, and good night",Labour,0.6597

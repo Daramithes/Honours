@@ -1,0 +1,126 @@
+,Text,Classification,Sentiment
+0,Mr,UKIP,0.0
+1," President, Mr",Non-Aligned,0.0
+2," Speaker, and Distinguished Members of the Congress:I stand on this rostrum with a sense of deep humility and great pride — humility in the wake of those great American architects of our history who have stood here before me; pride in the reflection that this forum of legislative debate represents human liberty in the purest form yet devised",Labour,0.9186
+3, Here are centered the hopes and aspirations and faith of the entire human race,Non-Aligned,0.6908
+4," I do not stand here as advocate for any partisan cause, for the issues are fundamental and reach quite beyond the realm of partisan consideration",UKIP,0.0258
+5, They must be resolved on the highest plane of national interest if our course is to prove sound and our future protected,Conservative,0.6808
+6," I trust, therefore, that you will do me the justice of receiving that which I have to say as solely expressing the considered viewpoint of a fellow American",SNP,0.5106
+7,"I address you with neither rancor nor bitterness in the fading twilight of life, with but one purpose in mind: to serve my country",Non-Aligned,0.3252
+8," The issues are global and so interlocked that to consider the problems of one sector, oblivious to those of another, is but to court disaster for the whole",Anti-LibDem,-0.4019
+9," While Asia is commonly referred to as the Gateway to Europe, it is no less true that Europe is the Gateway to Asia, and the broad influence of the one cannot fail to have its impact upon the other",Anti-Green,-0.2484
+10," There are those who claim our strength is inadequate to protect on both fronts, that we cannot divide our effort",Labour,0.7003
+11, I can think of no greater expression of defeatism,Anti-Labour,-0.128
+12," If a potential enemy can divide his strength on two fronts, it is for us to counter his effort",LibDem,0.4939
+13, The Communist threat is a global one,Non-Aligned,-0.5267
+14, Its successful advance in one sector threatens the destruction of every other sector,Anti-LibDem,-0.3182
+15, You can not appease or otherwise surrender to communism in Asia without simultaneously undermining our efforts to halt its advance in Europe,LibDem,0.0
+16,"Beyond pointing out these general truisms, I shall confine my discussion to the general areas of Asia",Labour,0.0
+17," Before one may objectively assess the situation now existing there, he must comprehend something of Asia’s past and the revolutionary changes which have marked her course up to the present",LibDem,0.0
+18," Long exploited by the so-called colonial powers, with little opportunity to achieve any degree of social justice, individual dignity, or a higher standard of life such as guided our own noble administration in the Philippines, the peoples of Asia found their opportunity in the war just past to throw off the shackles of colonialism and now see the dawn of new opportunity, a heretofore unfelt dignity, and the self-respect of political freedom",Anti-Conservative,-0.0258
+19,"Mustering half of the earth’s population, and 60 percent of its natural resources these peoples are rapidly consolidating a new force, both moral and material, with which to raise the living standard and erect adaptations of the design of modern progress to their own distinct cultural environments",Non-Aligned,0.4215
+20," Whether one adheres to the concept of colonization or not, this is the direction of Asian progress and it may not be stopped",Non-Aligned,0.1531
+21, It is a corollary to the shift of the world economic frontiers as the whole epicenter of world affairs rotates back toward the area whence it started,Conservative,0.0
+22,"In this situation, it becomes vital that our own country orient its policies in consonance with this basic evolutionary condition rather than pursue a course blind to the reality that the colonial era is now past and the Asian peoples covet the right to shape their own free destiny",Conservative,0.4215
+23," What they seek now is friendly guidance, understanding, and support — not imperious direction — the dignity of equality and not the shame of subjugation",Anti-SNP,-0.1027
+24," Their pre-war standard of life, pitifully low, is infinitely lower now in the devastation left in war’s wake",Anti-Labour,-0.802
+25, World ideologies play little part in Asian thinking and are little understood,LibDem,0.34
+26," What the peoples strive for is the opportunity for a little more food in their stomachs, a little better clothing on their backs, a little firmer roof over their heads, and the realization of the normal nationalist urge for political freedom",Non-Aligned,0.7964
+27," These political-social conditions have but an indirect bearing upon our own national security, but do form a backdrop to contemporary planning which must be thoughtfully considered if we are to avoid the pitfalls of unrealism",Anti-LibDem,-0.296
+28,Of more direct and immediately bearing upon our national security are the changes wrought in the strategic potential of the Pacific Ocean in the course of the past war,Anti-Green,-0.5994
+29," Prior thereto the western strategic frontier of the United States lay on the littoral line of the Americas, with an exposed island salient extending out through Hawaii, Midway, and Guam to the Philippines",Non-Aligned,0.4215
+30, That salient proved not an outpost of strength but an avenue of weakness along which the enemy could and did attack,Anti-SNP,-0.1779
+31,The Pacific was a potential area of advance for any predatory force intent upon striking at the bordering land areas,Anti-Green,-0.128
+32, All this was changed by our Pacific victory,LibDem,0.0
+33," Our strategic frontier then shifted to embrace the entire Pacific Ocean, which became a vast moat to protect us as long as we held it",Conservative,0.3818
+34," Indeed, it acts as a protective shield for all of the Americas and all free lands of the Pacific Ocean area",Labour,0.7096
+35, We control it to the shores of Asia by a chain of islands extending in an arc from the Aleutians to the Mariannas held by us and our free allies,Labour,0.6124
+36," From this island chain we can dominate with sea and air power every Asiatic port from Vladivostok to Singapore — with sea and air power every port, as I said, from Vladivostok to Singapore — and prevent any hostile movement into the Pacific",Green,0.0258
+37,*Any predatory attack from Asia must be an amphibious effort,Non-Aligned,-0.4767
+38,* No amphibious force can be successful without control of the sea lanes and the air over those lanes in its avenue of advance,Non-Aligned,0.5719
+39," With naval and air supremacy and modest ground elements to defend bases, any major attack from continental Asia toward us or our friends in the Pacific would be doomed to failure",Non-Aligned,-0.3818
+40,"Under such conditions, the Pacific no longer represents menacing avenues of approach for a prospective invader",Non-Aligned,0.296
+41," It assumes, instead, the friendly aspect of a peaceful lake",LibDem,0.0
+42, Our line of defense is a natural one and can be maintained with a minimum of military effort and expense,Non-Aligned,0.0
+43," It envisions no attack against anyone, nor does it provide the bastions essential for offensive operations, but properly maintained, would be an invincible defense against aggression",Non-Aligned,-0.6597
+44, The holding of this littoral defense line in the western Pacific is entirely dependent upon holding all segments thereof; for any major breach of that line by an unfriendly power would render vulnerable to determined attack every other major segment,Non-Aligned,-0.4767
+45,This is a military estimate as to which I have yet to find a military leader who will take exception,Non-Aligned,0.0
+46," For that reason, I have strongly recommended in the past, as a matter of military urgency, that under no circumstances must Formosa fall under Communist control",Conservative,0.3818
+47," Such an eventuality would at once threaten the freedom of the Philippines and the loss of Japan and might well force our western frontier back to the coast of California, Oregon and Washington",Non-Aligned,0.34
+48,"To understand the changes which now appear upon the Chinese mainland, one must understand the changes in Chinese character and culture over the past 50 years",LibDem,0.0
+49," China, up to 50 years ago, was completely non-homogenous, being compartmented into groups divided against each other",LibDem,0.0
+50," The war-making tendency was almost non-existent, as they still followed the tenets of the Confucian ideal of pacifist culture",Green,0.5267
+51," At the turn of the century, under the regime of Chang Tso Lin, efforts toward greater homogeneity produced the start of a nationalist urge",Labour,0.3612
+52," This was further and more successfully developed under the leadership of Chiang Kai-Shek, but has been brought to its greatest fruition under the present regime to the point that it has now taken on the character of a united nationalism of increasingly dominant, aggressive tendencies",LibDem,0.886
+53,Through these past 50 years the Chinese people have thus become militarized in their concepts and in their ideals,Non-Aligned,0.5267
+54," They now constitute excellent soldiers, with competent staffs and commanders",SNP,0.4588
+55," This has produced a new and dominant power in Asia, which, for its own purposes, is allied with Soviet Russia but which in its own concepts and methods has become aggressively imperialistic, with a lust for expansion and increased power normal to this type of imperialism",Conservative,0.3612
+56,There is little of the ideological concept either one way or another in the Chinese make-up,Non-Aligned,0.0
+57, The standard of living is so low and the capital accumulation has been so thoroughly dissipated by war that the masses are desperate and eager to follow any leadership which seems to promise the alleviation of local stringencies,Anti-SNP,-0.2732
+58,I have from the beginning believed that the Chinese Communists’ support of the North Koreans was the dominant one,UKIP,0.4019
+59," Their interests are, at present, parallel with those of the Soviet",Labour,0.4588
+60, But I believe that the aggressiveness recently displayed not only in Korea but also in Indo-China and Tibet and pointing potentially toward the South reflects predominantly the same lust for the expansion of power which has animated every would-be conqueror since the beginning of time,Green,0.0258
+61,"The Japanese people, since the war, have undergone the greatest reformation recorded in modern history",Conservative,0.0772
+62," With a commendable will, eagerness to learn, and marked capacity to understand, they have, from the ashes left in war’s wake, erected in Japan an edifice dedicated to the supremacy of individual liberty and personal dignity; and in the ensuing process there has been created a truly representative government committed to the advance of political morality, freedom of economic enterprise, and social justice",LibDem,0.8519
+63,"Politically, economically, and socially Japan is now abreast of many free nations of the earth and will not again fail the universal trust",Non-Aligned,0.4767
+64," That it may be counted upon to wield a profoundly beneficial influence over the course of events in Asia is attested by the magnificent manner in which the Japanese people have met the recent challenge of war, unrest, and confusion surrounding them from the outside and checked communism within their own frontiers without the slightest slackening in their forward progress",SNP,0.296
+65, I sent all four of our occupation divisions to the Korean battlefront without the slightest qualms as to the effect of the resulting power vacuum upon Japan,Anti-Conservative,-0.296
+66, The results fully justified my faith,Labour,0.4215
+67," I know of no nation more serene, orderly, and industrious, nor in which higher hopes can be entertained for future constructive service in the advance of the human race",SNP,0.6369
+68,"Of our former ward, the Philippines, we can look forward in confidence that the existing unrest will be corrected and a strong and healthy nation will grow in the longer aftermath of war’s terrible destructiveness",Anti-LibDem,-0.6124
+69," We must be patient and understanding and never fail them — as in our hour of need, they did not fail us",Labour,0.6908
+70," A Christian nation, the Philippines stand as a mighty bulwark of Christianity in the Far East, and its capacity for high moral leadership in Asia is unlimited",Non-Aligned,0.0
+71,"On Formosa, the government of the Republic of China has had the opportunity to refute by action much of the malicious gossip which so undermined the strength of its leadership on the Chinese mainland",UKIP,0.5994
+72," The Formosan people are receiving a just and enlightened administration with majority representation on the organs of government, and politically, economically, and socially they appear to be advancing along sound and constructive lines",Green,0.5106
+73,"With this brief insight into the surrounding areas, I now turn to the Korean conflict",Non-Aligned,-0.3182
+74," While I was not consulted prior to the President’s decision to intervene in support of the Republic of Korea, that decision from a military standpoint, proved a sound one, as we hurled back the invader and decimated his forces",UKIP,0.4019
+75," Our victory was complete, and our objectives within reach, when Red China intervened with numerically superior ground forces",SNP,0.5574
+76,"This created a new war and an entirely new situation, a situation not contemplated when our forces were committed against the North Korean invaders; a situation which called for new decisions in the diplomatic sphere to permit the realistic adjustment of military strategy",Anti-LibDem,-0.4019
+77,Such decisions have not been forthcoming,Conservative,0.0
+78,"While no man in his right mind would advocate sending our ground forces into continental China, and such was never given a thought, the new situation did urgently demand a drastic revision of strategic planning if our political aim was to defeat this new enemy as we had defeated the old",Anti-LibDem,-0.6908
+79,"Apart from the military need, as I saw It, to neutralize the sanctuary protection given the enemy north of the Yalu, I felt that military necessity in the conduct of the war made necessary: first the intensification of our economic blockade against China; two the imposition of a naval blockade against the China coast; three removal of restrictions on air reconnaissance of China’s coastal areas and of Manchuria; four removal of restrictions on the forces of the Republic of China on Formosa, with logistical support to contribute to their effective operations against the common enemy",Anti-LibDem,-0.5859
+80,"For entertaining these views, all professionally designed to support our forces committed to Korea and bring hostilities to an end with the least possible delay and at a saving of countless American and allied lives, I have been severely criticized in lay circles, principally abroad, despite my understanding that from a military standpoint the above views have been fully shared in the past by practically every military leader concerned with the Korean campaign, including our own Joint Chiefs of Staff",Conservative,0.802
+81,I called for reinforcements but was informed that reinforcements were not available,LibDem,0.0
+82," I made clear that if not permitted to destroy the enemy built-up bases north of the Yalu, if not permitted to utilize the friendly Chinese Force of some 600,000 men on Formosa, if not permitted to blockade the China coast to prevent the Chinese Reds from getting succor from without, and if there were to be no hope of major reinforcements, the position of the command from the military standpoint forbade victory",Anti-UKIP,-0.4949
+83,"We could hold in Korea by constant maneuver and in an approximate area where our supply line advantages were in balance with the supply line disadvantages of the enemy, but we could hope at best for only an indecisive campaign with its terrible and constant attrition upon our forces if the enemy utilized its full military potential",UKIP,0.7964
+84, I have constantly called for the new political decisions essential to a solution,Labour,0.0
+85,Efforts have been made to distort my position,Non-Aligned,-0.3182
+86," It has been said, in effect, that I was a warmonger",Labour,0.34
+87, Nothing could be further from the truth,Non-Aligned,0.3182
+88," I know war as few other men now living know it, and nothing to me is more revolting",Anti-UKIP,-0.5994
+89," I have long advocated its complete abolition, as its very destructiveness on both friend and foe has rendered it useless as a means of settling international disputes",Non-Aligned,-0.5423
+90," Indeed, on the second day of September, nineteen hundred and forty-five, just following the surrender of the Japanese nation on the Battleship Missouri, I formally cautioned as follows:Men since the beginning of time have sought peace",Anti-UKIP,-0.0258
+91, Various methods through the ages have been attempted to devise an international process to prevent or settle disputes between nations,LibDem,0.0258
+92," From the very start workable methods were found in so far as individual citizens were concerned, but the mechanics of an instrumentality of larger international scope have never been successful",Non-Aligned,-0.4585
+93," Military alliances, balances of power, Leagues of Nations, all in turn failed, leaving the only path to be by way of the crucible of war",Anti-Green,-0.8126
+94, The utter  destructiveness of war now blocks out this alternative,Anti-Green,-0.8807
+95, We have had our last chance,Non-Aligned,0.0
+96," If we will not devise some greater and more equitable system, Armageddon will be at our door",Non-Aligned,0.3612
+97," The problem basically is theological and involves a spiritual recrudescence and improvement of human character that will synchronize with our almost matchless advances in science, art, literature, and all material and cultural developments of the past 2000 years",Non-Aligned,-0.4019
+98, It must be of the spirit if we are to save the flesh,Labour,0.5994
+99,"But once war is forced upon us, there is no other alternative than to apply every available means to bring it to a swift end",Non-Aligned,-0.4767
+100,"War’s very object is victory, not prolonged indecision",Anti-LibDem,-0.5994
+101,In war there is no substitute for victory,Anti-Green,-0.5994
+102,"There are some who, for varying reasons, would appease Red China",Non-Aligned,0.0
+103," They are blind to history’s clear lesson, for history teaches with unmistakable emphasis that appeasement but begets new and bloodier war",Non-Aligned,-0.6124
+104," It points to no single instance where this end has justified that means, where appeasement has led to more than a sham peace",Green,0.5859
+105," Like blackmail, it lays the basis for new and successively greater demands until, as in blackmail, violence becomes the only other alternative",DUP,0.802
+106,"“Why,” my soldiers asked of me, “surrender military advantages to an enemy in the field?” I could not answer",UKIP,0.0
+107,"Some may say: to avoid spread of the conflict into an all-out war with China; others, to avoid Soviet intervention",Anti-LibDem,-0.8625
+108," Neither explanation seems valid, for China is already engaging with the maximum power it can commit, and the Soviet will not necessarily mesh its actions with our moves",LibDem,0.296
+109," Like a cobra, any new enemy will more likely strike whenever it feels that the relativity in military or other potential is in its favor on a world-wide basis",Non-Aligned,0.7351
+110,The tragedy of Korea is further heightened by the fact that its military action is confined to its territorial limits,LibDem,0.0
+111," It condemns that nation, which it is our purpose to save, to suffer the devastating impact of full naval and air bombardment while the enemy’s sanctuaries are fully protected from such attack and devastation",Anti-Labour,-0.5267
+112,"Of the nations of the world, Korea alone, up to now, is the sole one which has risked its all against communism",Non-Aligned,0.0772
+113, The magnificence of the courage and fortitude of the Korean people defies description,UKIP,0.5106
+114,They have chosen to risk death rather than slavery,Anti-Conservative,-0.7184
+115, Their last words to me were: “Don’t scuttle the Pacific!”I have just left your fighting sons in Korea,Non-Aligned,-0.3818
+116," They have met all tests there, and I can report to you without reservation that they are splendid in every way",Anti-LibDem,-0.4717
+117,It was my constant effort to preserve them and end this savage conflict honorably and with the least loss of time and a minimum sacrifice of life,Non-Aligned,0.4333
+118, Its growing bloodshed has caused me the deepest anguish and anxiety,Non-Aligned,-0.3612
+119,Those gallant men will remain often in my thoughts and in my prayers always,Conservative,0.4019
+120,I am closing my 52 years of military service,Non-Aligned,0.0
+121," When I joined the Army, even before the turn of the century, it was the fulfillment of all of my boyish hopes and dreams",UKIP,0.7269
+122," The world has turned over many times since I took the oath on the plain at West Point, and the hopes and dreams have long since vanished, but I still remember the refrain of one of the most popular barrack ballads of that day which proclaimed most proudly that “old soldiers never die; they just fade away",Labour,0.9051
+123,"”And like the old soldier of that ballad, I now close my military career and just fade away, an old soldier who tried to do his duty as God gave him the light to see that duty",Non-Aligned,0.5574
+124,Good Bye,Non-Aligned,0.4404

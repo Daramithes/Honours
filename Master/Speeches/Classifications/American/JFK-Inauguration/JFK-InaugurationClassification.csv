@@ -1,0 +1,53 @@
+,Text,Classification,Sentiment
+0,"Vice President Johnson, Mr",Non-Aligned,0.0
+1," Speaker, Mr",Non-Aligned,0.0
+2," Chief Justice, President Eisenhower, Vice President Nixon, President Truman, reverend clergy, fellow citizens:We observe today not a victory of party, but a celebration of freedom — symbolizing an end, as well as a beginning — signifying renewal, as well as change",Conservative,0.8126
+3, For I have sworn before you and Almighty God the same solemn oath our forebears prescribed nearly a century and three-quarters ago,Non-Aligned,0.2023
+4,The world is very different now,Non-Aligned,0.0
+5, For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life,Green,0.4939
+6," And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe — the belief that the rights of man come not from the generosity of the state, but from the hand of God",DUP,0.4588
+7,We dare not forget today that we are the heirs of that first revolution,Anti-UKIP,-0.2263
+8," Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans — born in this century, tempered by war, disciplined by a hard and bitter peace, proud of our ancient heritage, and unwilling to witness or permit the slow undoing of those human rights to which this nation has always been committed, and to which we are committed today at home and around the world",SNP,0.1779
+9,"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, to assure the survival and the success of liberty",LibDem,0.4767
+10,This much we pledge — and more,Labour,0.0
+11,"To those old allies whose cultural and spiritual origins we share, we pledge the loyalty of faithful friends",Non-Aligned,0.802
+12, United there is little we cannot do in a host of cooperative ventures,Labour,0.0
+13, Divided there is little we can do — for we dare not meet a powerful challenge at odds and split asunder,Anti-LibDem,-0.3182
+14,"To those new states whom we welcome to the ranks of the free, we pledge our word that one form of colonial control shall not have passed away merely to be replaced by a far more iron tyranny",UKIP,0.5106
+15, We shall not always expect to find them supporting our view,Conservative,0.4019
+16," But we shall always hope to find them strongly supporting their own freedom — and to remember that, in the past, those who foolishly sought power by riding the back of the tiger ended up inside",DUP,0.8689
+17,"To those people in the huts and villages of half the globe struggling to break the bonds of mass misery, we pledge our best efforts to help them help themselves, for whatever period is required — not because the Communists may be doing it, not because we seek their votes, but because it is right",Labour,0.8625
+18," If a free society cannot help the many who are poor, it cannot save the few who are rich",Labour,0.8658
+19,"To our sister republics south of our border, we offer a special pledge: to convert our good words into good deeds, in a new alliance for progress, to assist free men and free governments in casting off the chains of poverty",Labour,0.9509
+20, But this peaceful revolution of hope cannot become the prey of hostile powers,Labour,0.4404
+21, Let all our neighbors know that we shall join with them to oppose aggression or subversion anywhere in the Americas,Anti-UKIP,-0.0258
+22, And let every other power know that this hemisphere intends to remain the master of its own house,UKIP,0.0
+23,"To that world assembly of sovereign states, the United Nations, our last best hope in an age where the instruments of war have far outpaced the instruments of peace, we renew our pledge of support — to prevent it from becoming merely a forum for invective, to strengthen its shield of the new and the weak, and to enlarge the area in which its writ may run",Labour,0.6597
+24,"Finally, to those nations who would make themselves our adversary, we offer not a pledge but a request: that both sides begin anew the quest for peace, before the dark powers of destruction unleashed by science engulf all humanity in planned or accidental self-destruction",Anti-LibDem,-0.7579
+25,We dare not tempt them with weakness,Non-Aligned,-0.4404
+26, For only when our arms are sufficient beyond doubt can we be certain beyond doubt that they will never be employed,Non-Aligned,-0.4404
+27,"But neither can two great and powerful groups of nations take comfort from our present course — both sides overburdened by the cost of modern weapons, both rightly alarmed by the steady spread of the deadly atom, yet both racing to alter that uncertain balance of terror that stays the hand of mankind’s final war",Anti-Conservative,-0.8932
+28,"So let us begin anew — remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof",Non-Aligned,-0.4404
+29," Let us never negotiate out of fear, but let us never fear to negotiate",UKIP,0.6435
+30,Let both sides explore what problems unite us instead of belaboring those problems which divide us,Anti-LibDem,-0.6597
+31,"Let both sides, for the first time, formulate serious and precise proposals for the inspection and control of arms, and bring the absolute power to destroy other nations under the absolute control of all nations",Anti-Green,-0.5423
+32,Let both sides seek to invoke the wonders of science instead of its terrors,Anti-Conservative,-0.5267
+33," Together let us explore the stars, conquer the deserts, eradicate disease, tap the ocean depths, and encourage the arts and commerce",Non-Aligned,0.0
+34,"Let both sides unite to heed, in all corners of the earth, the command of Isaiah — to “undo the heavy burdens, and [to] let the oppressed go free",UKIP,0.1027
+35,"”¹And, if a beachhead of cooperation may push back the jungle of suspicion, let both sides join in creating a new endeavor — not a new balance of power, but a new world of law — where the strong are just, and the weak secure, and the peace preserved",Conservative,-0.0
+36,All this will not be finished in the first one hundred days,Non-Aligned,0.0
+37, Nor will it be finished in the first one thousand days; nor in the life of this Administration; nor even perhaps in our lifetime on this planet,Non-Aligned,0.0
+38, But let us begin,Non-Aligned,0.0
+39,"In your hands, my fellow citizens, more than mine, will rest the final success or failure of our course",LibDem,0.7845
+40," Since this country was founded, each generation of Americans has been summoned to give testimony to its national loyalty",Non-Aligned,0.34
+41, The graves of young Americans who answered the call to service surround the globe,Anti-Labour,-0.3818
+42,"Now the trumpet summons us again — not as a call to bear arms, though arms we need — not as a call to battle, though embattled we are — but a call to bear the burden of a long twilight struggle, year in and year out, “rejoicing in hope; patient in tribulation,”² a struggle against the common enemies of man: tyranny, poverty, disease, and war itself",Anti-LibDem,-0.5994
+43,"Can we forge against these enemies a grand and global alliance, North and South, East and West, that can assure a more fruitful life for all mankind? Will you join in that historic effort?In the long history of the world, only a few generations have been granted the role of defending freedom in its hour of maximum danger",Conservative,0.8176
+44, I do not shrink from this responsibility — I welcome it,Labour,0.0
+45, I do not believe that any of us would exchange places with any other people or any other generation,SNP,0.0
+46," The energy, the faith, the devotion which we bring to this endeavor will light our country and all who serve it",Non-Aligned,0.4215
+47, And the glow from that fire can truly light the world,Anti-Conservative,-0.34
+48,"And so, my fellow Americans, ask not what your country can do for you; ask what you can do for your country",Labour,0.0
+49,"My fellow citizens of the world, ask not what America will do for you, but what together we can do for the freedom of man",UKIP,0.6369
+50,"Finally, whether you are citizens of America or citizens of the world, ask of us here the same high standards of strength and sacrifice which we ask of you",LibDem,0.4939
+51," With a good conscience our only sure reward, with history the final judge of our deeds, let us go forth to lead the land we love, asking His blessing and His help, but knowing that here on earth God’s work must truly be our own",Green,0.9623

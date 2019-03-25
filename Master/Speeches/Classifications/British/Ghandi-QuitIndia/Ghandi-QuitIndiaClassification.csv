@@ -1,0 +1,63 @@
+,Text,Classification,Sentiment
+0,"Before you discuss the resolution, let me place before you one or two things, I want you to understand two things very clearly and to consider them from the same point of view from which I am placing them before you",Conservative,0.0772
+1," I ask you to consider it from my point of view, because if you approve of it, you will be enjoined to carry out all I say",Non-Aligned,0.0
+2, It will be a great responsibility,Labour,0.6249
+3," There are people who ask me whether I am the same man that I was in 1920, or whether there has been any change in me",LibDem,0.34
+4, You are right in asking that question,Labour,0.0
+5,"Let me, however, hasten to assure that I am the same Gandhi as I was in 1920",SNP,0.0
+6, I have not changed in any fundamental respect,Labour,0.4767
+7, I attach the same importance to non-violence that I did then,Green,0.0
+8," If at all, my emphasis on it has grown stronger",Non-Aligned,0.6124
+9, There is no real contradiction between the present resolution and my previous writings and utterances,Anti-SNP,-0.3182
+10,Occasions like the present do not occur in everybody’s and but rarely in anybody’s life,Non-Aligned,0.3612
+11, I want you to know and feel that there is nothing but purest Ahimsa1 in all that I am saying and doing today,Labour,0.0772
+12," The draft resolution of the Working Committee is based on Ahimsa, the contemplated struggle similarly has its roots in Ahimsa",Green,0.34
+13," If, therefore, there is any among you who has lost faith in Ahimsa or is wearied of it, let him not vote for this resolution",SNP,0.4404
+14,Let me explain my position clearly,Conservative,0.0
+15, God has vouchsafed to me a priceless gift in the weapon of Ahimsa,Non-Aligned,0.6369
+16, I and my Ahimsa are on our trail today,Conservative,0.0
+17," If in the present crisis, when the earth is being scorched by the flames of Himsa2 and crying for deliverance, I failed to make use of the God given talent, God will not forgive me and I shall be judged un-wrongly of the great gift",Non-Aligned,0.8591
+18, I must act now,LibDem,0.0
+19," I may not hesitate and merely look on, when Russia and China are threatened",Anti-LibDem,-0.3818
+20,"Ours is not a drive for power, but purely a non-violent fight for India’s independence",Anti-SNP,-0.3818
+21," In a violent struggle, a successful general has been often known to effect a military coup and to set up a dictatorship",Non-Aligned,0.296
+22," But under the Congress scheme of things, essentially non-violent as it is, there can be no room for dictatorship",Non-Aligned,0.0
+23," A non-violent soldier of freedom will covet nothing for himself, he fights only for the freedom of his country",UKIP,0.7783
+24," The Congress is unconcerned as to who will rule, when freedom is attained",Non-Aligned,0.6369
+25," The power, when it comes, will belong to the people of India, and it will be for them to decide to whom it placed in the entrusted",Non-Aligned,0.0
+26," May be that the reins will be placed in the hands of the Parsis, for instance-as I would love to see happen-or they may be handed to some others whose names are not heard in the Congress today",Non-Aligned,0.891
+27," It will not be for you then to object saying, “This community is microscopic",LibDem,0.0
+28, That party did not play its due part in the freedom’s struggle; why should it have all the power?” Ever since its inception the Congress has kept itself meticulously free of the communal taint,UKIP,0.9062
+29, It has thought always in terms of the whole nation and has acted accordingly,Conservative,0.5859
+30, ,Non-Aligned,0.0
+31,"I know how imperfect our Ahimsa is and how far away we are still from the ideal, but in Ahimsa there is no final failure or defeat",Anti-LibDem,-0.2263
+32," I have faith, therefore, that if, in spite of our shortcomings, the big thing does happen, it will be because God wanted to help us by crowning with success our silent, unremitting Sadhana1 for the last twenty-two years",Non-Aligned,0.802
+33,"I believe that in the history of the world, there has not been a more genuinely democratic struggle for freedom than ours",LibDem,0.765
+34," I read Carlyle’s French Resolution while I was in prison, and Pandit Jawaharlal has told me something about the Russian revolution",Anti-UKIP,-0.2263
+35, But it is my conviction that inasmuch as these struggles were fought with the weapon of violence they failed to realize the democratic ideal,Anti-UKIP,-0.5574
+36," In the democracy which I have envisaged, a democracy established by non-violence, there will be equal freedom for all",UKIP,0.6369
+37, Everybody will be his own master,Non-Aligned,0.0
+38, It is to join a struggle for such democracy that I invite you today,Labour,0.296
+39," Once you realize this you will forget the differences between the Hindus and Muslims, and think of yourselves as Indians only, engaged in the common struggle for independence",Non-Aligned,-0.2263
+40,"Then, there is the question of your attitude towards the British",LibDem,0.0
+41, I have noticed that there is hatred towards the British among the people,LibDem,0.0
+42, The people say they are disgusted with their behaviour,Anti-Labour,-0.5994
+43, The people make no distinction between British imperialism and the British people,Conservative,0.0
+44," To them, the two are one This hatred would even make them welcome the Japanese",Non-Aligned,0.0
+45, It is most dangerous,Non-Aligned,-0.5267
+46, It means that they will exchange one slavery for another,Conservative,0.0
+47, We must get rid of this feeling,UKIP,0.0
+48," Our quarrel is not with the British people, we fight their imperialism",Anti-Labour,-0.3818
+49, The proposal for the withdrawal of British power did not come out of anger,Anti-LibDem,-0.5719
+50, It came to enable India to play its due part at the present critical juncture It is not a happy position for a big country like India to be merely helping with money and material obtained willy-nilly from her while the United Nations are conducting the war,Non-Aligned,0.1531
+51," We cannot evoke the true spirit of sacrifice and velour, so long as we are not free",Conservative,0.7783
+52," I know the British Government will not be able to withhold freedom from us, when we have made enough self-sacrifice",LibDem,0.6369
+53," We must, therefore, purge ourselves of hatred",Labour,0.0
+54," Speaking for myself, I can say that I have never felt any hatred",Non-Aligned,0.0
+55," As a matter of fact, I feel myself to be a greater friend of the British now than ever before",Non-Aligned,0.7003
+56, One reason is that they are today in distress,Anti-Labour,-0.5267
+57," My very friendship, therefore, demands that I should try to save them from their mistakes",LibDem,0.6808
+58," As I view the situation, they are on the brink of an abyss",LibDem,0.0
+59," It, therefore, becomes my duty to warn them of their danger even though it may, for the time being, anger them to the point of cutting off the friendly hand that is stretched out to help them",Anti-LibDem,-0.5719
+60," People may laugh, nevertheless that is my claim",Non-Aligned,0.5574
+61," At a time when I may have to launch the biggest struggle of my life, I may not harbour hatred against anybody",Non-Aligned,0.0

@@ -1,5 +1,5 @@
 e:
 
-cd E:\Honours\Master\PythonAnalysis
+cd e:\Honours\Master\PythonAnalysis
 
 jupyter notebook

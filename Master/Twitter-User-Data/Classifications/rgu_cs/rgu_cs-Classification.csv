@@ -1,0 +1,77 @@
+id,created_at,text,retweet_count,favorite_count,media_count,url_count,Classification
+1099568722778431489,2019-02-24 07:16:27,b'Dawn breaks over #rguhack2019. Good morning everyone!',0,2,0,0,Labour
+1099406871620976640,2019-02-23 20:33:18,"b'Congratulations to Conor, winner of the web development mini-game at #RGUHack2019 ! https://t.co/waoGEBov54'",0,2,1,0,Non-Aligned
+1099380101232422912,2019-02-23 18:46:56,b'#rguhack2019 in full swing! https://t.co/YQRsu3gIre',2,6,1,0,Non-Aligned
+1099359723512623104,2019-02-23 17:25:57,b'Let the games begin at #rguhack2019 https://t.co/gart6yf6M8',0,1,1,0,Non-Aligned
+1099322681059610625,2019-02-23 14:58:46,"b""Full attendance for John's API workshop at #RGUHack2019! https://t.co/WbtNAx3LzX""",0,4,1,0,Non-Aligned
+1099099987869396992,2019-02-23 00:13:52,"b'Good news everyone, the food for #rguhack2019 arrived on time! See you from 10am tomorrow ^_^ https://t.co/qPfRtPts5T'",0,1,1,0,Non-Aligned
+1068849620778983425,2018-12-01 12:49:42,b'Practicing for technical interviews with our algorithms workshop! #rguhackday #MLHlocalhost @MLHacks https://t.co/n7pjdgFb79',0,1,1,0,Non-Aligned
+1040625200251973632,2018-09-14 15:35:56,"b'Welcome to the committee: Shaw Eastwood, Eilidh Southren, Amartya Yadav, Allan Noble, Zhaklina Velcheva, Jess McGow\xe2\x80\xa6 https://t.co/kkwCakpWVy'",1,7,0,1,SNP
+985695889741242368,2018-04-16 01:46:28,b'RT @RGUHack: The overall winner at RGUHack 2018 was... Team https://t.co/fbdESCXaIl with their real time speech translation into meeting ro\xe2\x80\xa6',5,0,0,1,SNP
+985695875182850050,2018-04-16 01:46:24,b'RT @RGUHack: In overall 2nd place at RGUHack 2018 was... Team Gysum with their visualization of ship data on a 3D globe which could be cont\xe2\x80\xa6',3,0,0,0,Non-Aligned
+985695861836574720,2018-04-16 01:46:21,b'RT @RGUHack: In overall 3rd place at RGUHack 2018 was... Team Pacman with their trio of retro games remade! #RGUHack #Aberdeen @MLHacks htt\xe2\x80\xa6',4,0,0,0,Non-Aligned
+985695845034143745,2018-04-16 01:46:17,"b""RT @RGUHack: Winning the 'Best Social Media Post' prize at RGUHack was Connor Haining (@conhaining) #RGUHack #Aberdeen #BigScreenBigStage @\xe2\x80\xa6""",5,0,0,0,SNP
+985695831138471936,2018-04-16 01:46:14,b'RT @RGUHack: Winning the RGU Computing School prize at RGUHack was team Kate #RGUHack #Aberdeen @MLHacks  @RGUComputing https://t.co/TMvNzV\xe2\x80\xa6',4,0,0,0,Non-Aligned
+985695819331497985,2018-04-16 01:46:11,b'RT @RGUHack: Winning the Brightree prize at RGUHack was team ShipHappens from Dundee! #RGUHack #Aberdeen @MLHacks @Brightree https://t.co/E\xe2\x80\xa6',7,0,0,0,SNP
+985357994811633665,2018-04-15 03:23:47,"b'RT @RGUHack: Lockpicking workshop by @Blankeh has ended at RGUHack 2018, nice to introduce so many hackers to lockpicking that have never d\xe2\x80\xa6'",3,0,0,0,Non-Aligned
+985357965329870849,2018-04-15 03:23:40,"b'RT @RGUHack: Slideshow karaoke hosted by @ljf_io went well at RGUHack 2018, some really funny presentations \xf0\x9f\xa4\xaa #RGUHack #Aberdeen @MLHacks h\xe2\x80\xa6'",3,0,0,0,SNP
+985294645889560576,2018-04-14 23:12:04,"b""RT @TeamCodify: Good Luck to all those taking part in the RGU Hack this weekend. We'll be there if you want to talk software development wi\xe2\x80\xa6""",1,0,0,0,SNP
+985248406531723264,2018-04-14 20:08:19,b'RT @RGUHack: Hackers are back at work after a devouring some delicious Dominos pizza! \xf0\x9f\x8d\x95 #RGUHack #Aberdeen @MLHacks @Dominos_UK',2,0,0,0,SNP
+985247956348604417,2018-04-14 20:06:32,"b""RT @RGUHack: We're back LIVE! - Head over to https://t.co/ovYOdPLiFq to watch RGUHack LIVE :-) #RGUHack #Aberdeen""",1,0,0,1,SNP
+985171469398405120,2018-04-14 15:02:36,b'RT @RGUHack: Hacking has commenced and we\xe2\x80\x99re now 3 hours in! Projects seem to be coming along well. Only 2 hours until pizza time! \xf0\x9f\x8d\x95 #RGUHa\xe2\x80\xa6',3,0,0,0,DUP
+985114742456012800,2018-04-14 11:17:11,"b'RT @RGUHack: Closing out the presentations is our very own Dr John Isaacs, course leader for Computer Science at RGU telling us about the C\xe2\x80\xa6'",5,0,0,0,Non-Aligned
+985114707827838977,2018-04-14 11:17:03,"b'RT @RGUHack: Also thank-you to Doist, Jetbrains and Engage Gaming for sponsoring RGUHack 2018 @doist @jetbrains @engagegaming_gg @MLHacks #\xe2\x80\xa6'",3,0,0,0,Non-Aligned
+985114652924399617,2018-04-14 11:16:50,b'RT @RGUHack: Thank-you to Cisco who have also sponsored RGUHack 2018 but unfortunately could not attend the hack this weekend. #RGUHack #Ab\xe2\x80\xa6',3,0,0,0,Non-Aligned
+985110510457835522,2018-04-14 11:00:22,b'RT @RGUHack: Our last sponsor presentation comes from Redgate! #RGUHack #Aberdeen @MLHacks @redgate @StanislavHamara https://t.co/wbfyPTam9z',3,0,1,0,SNP
+985109136005312513,2018-04-14 10:54:55,b'RT @RGUHack: Our next sponsor presentation comes from Brightree! #RGUHack #Aberdeen @MLHacks @Brightree https://t.co/XtXly0qQwU',3,0,1,0,SNP
+985106877854945280,2018-04-14 10:45:56,b'RT @RGUHack: First sponsor presentation comes from Codify! #RGUHack #Aberdeen @MLHacks @TeamCodify https://t.co/eAu2CazSoh',7,0,1,0,SNP
+985104266623967233,2018-04-14 10:35:34,b'RT @RGUHack: Presentations have kicked off at RGUHack 2018! #RGUHack #Aberdeen @MLHacks https://t.co/EJLpRsZdgD',5,0,1,0,SNP
+984903002086690817,2018-04-13 21:15:48,"b""RT @RGUHack: Less than 12 hours to go until #RGUHack. RT if you're excited to build something awesome in the bearpit!""",5,0,0,0,Non-Aligned
+984037102164828160,2018-04-11 11:55:02,"b'RT @RGUHack: LAST FEW DAYS to get your RGUHack ticket, be sure to get yours NOW! https://t.co/W4ny2fbBJn'",4,0,0,1,Labour
+982895577804533761,2018-04-08 08:19:01,"b'RT @RGUHack: One week to go until #RGUHack 2018, be sure to get your ticket today! https://t.co/W4ny2fbBJn'",4,0,0,1,Labour
+981518999988129796,2018-04-04 13:08:59,b'RT @bcs_lovelace: First place - Team Ada! They\xe2\x80\x99ve won some @sheffhallamuni shirts and smartphone lenses #BCSLL18 https://t.co/F51D9IhSZt',7,0,1,0,Non-Aligned
+981518240718483456,2018-04-04 13:05:58,"b'RT @RGUHack: RGUHack is in less than 1010 days, so be sure to get your ticket TODAY at https://t.co/Z7pNTP8OEo'",5,0,0,1,Labour
+981068798093611008,2018-04-03 07:20:03,b'RT @MLHacks: All of our UK hackers should check out #RGUHack coming up on April 14th and 15th! More info can be found here: https://t.co/a3\xe2\x80\xa6',6,0,0,0,DUP
+977136361550635008,2018-03-23 10:53:57,b'RT @RGUHack: Official Early Bird tickets for #RGUHack have been released! Find out more at: https://t.co/W4ny2fbBJn',1,0,0,1,Non-Aligned
+976469669593927681,2018-03-21 14:44:45,b'RT @RGUHack: RGUHack is back for 2018 and this year is going to be bigger and better than before!\n\nRegister your interest at: https://t.co/\xe2\x80\xa6',6,0,0,0,Labour
+976462745460715520,2018-03-21 14:17:14,"b'Final few days to buy your Computing Society Ball ticket, get yours now to avoid disappointment!\nhttps://t.co/cuwKBaOAPq'",0,0,0,1,Non-Aligned
+937078062314872832,2017-12-02 21:56:34,"b""@watty62 @RGUComputing @MLHacks @GitHubEducation Thanks Ian. That is unfortunate, but there's always @RGUHack!""",0,1,0,0,LibDem
+937063420624596992,2017-12-02 20:58:23,"b'That\xe2\x80\x99s a wrap, congrats to all hackers who turned up! Amazing effort by all teams \xf0\x9f\x91\x8d @RGUComputing @MLHacks @GitHubEducation #LocalHackDay'",0,3,0,0,SNP
+937028088797556737,2017-12-02 18:38:00,"b""@RGUComputing's Dr John Isaacs hard at work collaboratively coding the Pi matrix with @ljf_io #LocalHackDay\xe2\x80\xa6 https://t.co/ToP3tr4kz8""",3,4,0,1,Non-Aligned
+937027310301143040,2017-12-02 18:34:54,"b""@RGUComputing's Chris McDermott teaching a thing or two about Linux and Networking to help with connecting Raspberr\xe2\x80\xa6 https://t.co/r93L8DmQ4T""",2,2,0,1,Non-Aligned
+937024901218750469,2017-12-02 18:25:20,b'A Lego Mindstorm which listens to sound/music and will draw an image based on the sound frequencies. #LocalHackDay\xe2\x80\xa6 https://t.co/sHcznJPNmD',4,5,0,1,Non-Aligned
+937016199560552448,2017-12-02 17:50:45,"b""A whopping 36 Raspberry Pi's in a 6x6 matrix connected through a switch! These show a scrolling text message passin\xe2\x80\xa6 https://t.co/WBV8nLufxF""",5,7,0,1,Non-Aligned
+936969987650146304,2017-12-02 14:47:07,"b""Woah, we're half way there.\nWoah, our codes got flair! #bonjovi @RGUComputing @MLHacks @GitHubEducation @NESCollege\xe2\x80\xa6 https://t.co/ey0Xzsgp6w""",0,2,0,1,Non-Aligned
+936945737157562368,2017-12-02 13:10:46,b'Two of the teams at RGU #LocalHackDay with 8 hours remaining! @RGUComputing @MLHacks @GitHubEducation @NESCollege\xe2\x80\xa6 https://t.co/EmGuG8JiQu',3,8,0,1,SNP
+936903775398199296,2017-12-02 10:24:01,"b'We\xe2\x80\x99ve kicked off #LocalHackDay in N533, Sir Ian Wood Building @MLHacks @GitHubEducation'",0,4,0,0,Non-Aligned
+935787306165956608,2017-11-29 08:27:34,b'Looking to sign up or find out more about the society?\nPick out one of the team with our fabulous new hoodies!\xe2\x80\xa6 https://t.co/WAajwqNrBR',2,2,0,1,Conservative
+935464008106246147,2017-11-28 11:02:54,"b""We're running MLH Local Hack Day at RGU this December (2nd).\n\nRT to let your hacker friends know and come along hac\xe2\x80\xa6 https://t.co/KZDmAYpOLZ""",6,2,0,1,SNP
+929809655437692928,2017-11-12 20:34:31,b'Successful weekend for #TeamRGU:\n\nWell done to our team at #Quackathon for winning the @Edesix prize!\n\nHuge congrat\xe2\x80\xa6 https://t.co/hSKgJjYzts',5,4,0,1,Non-Aligned
+929304324798320640,2017-11-11 11:06:31,"b'#TeamRGU are at the #Quackathon 2017, good luck to everyone participating!'",4,4,0,0,SNP
+928266114680938496,2017-11-08 14:21:02,b'We\xe2\x80\x99re kicking off our Capture The Flag event in N523 #ctf #rgucompsoc',0,1,0,0,LibDem
+926123552373395456,2017-11-02 16:27:16,"b""RT @codethecity: Great to see a load of tickets gone already. Three today from @aberdeenuni but none from @RobertGordonUni yet. Let's get t\xe2\x80\xa6""",5,0,0,0,SNP
+922546058789564416,2017-10-23 19:31:35,b'We\xe2\x80\x99ve started our first Pub Quiz of the year at BSSC #pub #quiz #computing #society @ Bridge\xe2\x80\xa6 https://t.co/HaLGhOtFS1',0,0,0,1,Non-Aligned
+920637447326851074,2017-10-18 13:07:26,b'Our @github workshop is starting now in N533 in the SIWB run by @ljf_io',3,1,0,0,Non-Aligned
+918069390662303744,2017-10-11 11:02:54,b'@SCOTTLB @RGUComputing Hack the systems on the boxes to change the colours - we\xe2\x80\x99re using Kali to identify the configuration on the Pis',0,0,0,0,Non-Aligned
+918065415045120005,2017-10-11 10:47:06,b'Learning how to build up a 3D scene using Photoshop @RGUComputing  #RGUOpenDay https://t.co/eO0CjhiYy3',1,1,1,0,Non-Aligned
+918064460954251264,2017-10-11 10:43:18,b'We\xe2\x80\x99re hacking into Raspberry Pi\xe2\x80\x99s in the Cybersecurity Lab #RGUOpenDay @RGUComputing https://t.co/mQaldrXlTc',3,5,1,0,Non-Aligned
+918054716713656321,2017-10-11 10:04:35,b'Great talks on placements and experience at RGU by students Sophie Haynes and Tiffany Young at #RGUOpenDay @RGUComputing',1,1,0,0,Non-Aligned
+918052022556995584,2017-10-11 09:53:53,b'Course Leader John Isaacs giving a \xe2\x80\x9cBut what is it good for?\xe2\x80\x9d talk in N311 #RGUOpenDay https://t.co/mbgSKRYqFi',1,3,1,0,Conservative
+918050279064555520,2017-10-11 09:46:57,"b'We\xe2\x80\x99re at #RGUOpenDay covering @RGUComputing today, so come join us in the Sir Ian Wood Building'",0,1,0,0,Labour
+905822096420429824,2017-09-07 15:56:31,b'RT @codethecity: Interested in #servicedesign #innovation or #opendata ? Join this free workshop https://t.co/TmOWERAHIL and make a differe\xe2\x80\xa6',10,0,0,1,Non-Aligned
+902877909651738624,2017-08-30 12:57:22,b'RT @wildfireone: Robot invasion ready for @RGUComputing #rguopenday https://t.co/6g60uwdnok',1,0,1,0,Non-Aligned
+852820528536494080,2017-04-14 09:47:13,"b""RT @RGUHack: Finally, we'd love to say thanks to Qcode for sponsoring the hackathon for another year. 1 day left to go hackers! https://t.c\xe2\x80\xa6""",1,0,0,0,Conservative
+852790358442295297,2017-04-14 07:47:20,b'RT @RGUHack: Thanks to @redgate\xe2\x80\x8b for being sponsors again this year. Great to see companies coming back for more hacking fun! https://t.co/\xe2\x80\xa6',2,0,0,0,Labour
+852542953809735680,2017-04-13 15:24:14,"b""RT @RGUHack: We'd like to also thank @BaillieGifford for sponsoring this year's hackathon. Only 2 days left until hacking commences! https:\xe2\x80\xa6""",2,0,0,0,Non-Aligned
+852417990167592960,2017-04-13 07:07:40,"b""RT @RGUHack: Huge thanks to @FifthRing for sponsoring the hackathon this year! Be sure you've signed up at https://t.co/OWQqOzMLnj https://\xe2\x80\xa6""",2,0,0,1,Conservative
+852417921439735808,2017-04-13 07:07:24,"b""RT @RGUHack: Big thanks to our primary sponsors @TeamCodify! We can't wait for Saturday. Coding, challenges and prizes head. Sign up - rguh\xe2\x80\xa6""",3,0,0,0,Labour
+851457370391707648,2017-04-10 15:30:31,b'RT @TeamCodify: Excited! Only 4 days and 10 hours to #RGUHack! Sponsored by @TeamCodify 24hrs fun coding challenges. Registered yet? Loads\xe2\x80\xa6',5,0,0,0,Non-Aligned
+845024609162481664,2017-03-23 21:29:01,b'The countdown to get your tickets for this years CSDM Ball is on: 7 days and counting until end of sale!\n\nhttps://t.co/KzYP7iHFmB',1,0,0,1,Conservative
+843765162649796608,2017-03-20 10:04:25,"b'Come along to the RGU CSDM Ball, stuff your face and get your groove on!\n\nMore info: https://t.co/KzYP7iHFmB'",0,0,0,1,SNP
+839042438589112321,2017-03-07 09:18:00,b'Come along to our Build-A-Bot Workshop on Thursday 2-4PM!\n\nMore info: https://t.co/xtyseUl3Ry',0,0,0,1,SNP
+838689922911469568,2017-03-06 09:57:14,b'RT @RGUHack: Are you looking for student placements / graduates?\n\nGet in touch with us about sponsorship to promote your opportunities: inf\xe2\x80\xa6',3,0,0,0,Non-Aligned
+834812954184933378,2017-02-23 17:11:33,b'Countdown to #hashcode2017 at @RGUComputing https://t.co/0mU9BuRFaw',1,1,1,0,Non-Aligned
+831220134677196805,2017-02-13 19:14:58,b'RT @RGUHack: Get ready for RGUHack on 15th &amp; 16th of April 2017!\nRegister interest today at https://t.co/Z7pNTP8OEo',2,0,0,1,Conservative
+828327350769184770,2017-02-05 19:40:04,b'RT @RGUHack: RGUHack is back for 2017... https://t.co/Z7pNTP8OEo',7,0,0,1,Non-Aligned
+827244125619621889,2017-02-02 19:55:43,"b'Interested in coding?\nLike a challenge?\nSign up to Google Hash Code, register your team and come to the RGU hub!\nhttps://t.co/qWreJADsFG'",0,0,0,1,Non-Aligned
+824615274536116224,2017-01-26 13:49:36,"b""Hello fellow @RobertGordonUni students, we're now on @Twitter!""",1,2,0,0,Non-Aligned

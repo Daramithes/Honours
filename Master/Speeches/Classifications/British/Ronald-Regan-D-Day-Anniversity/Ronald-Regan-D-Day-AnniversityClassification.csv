@@ -1,0 +1,103 @@
+,Text,Classification,Sentiment
+0,We’re here to mark that day in history when the Allied armies joined in battle to reclaim this continent to liberty,Conservative,0.296
+1," For four long years, much of Europe had been under a terrible shadow",Labour,0.0
+2," Free nations had fallen, Jews cried out in the camps, millions cried out for liberation",LibDem,0.2023
+3, Europe was enslaved and the world prayed for its rescue,LibDem,0.3182
+4," Here, in Normandy, the rescue began",Non-Aligned,0.0
+5," Here, the Allies stood and fought against tyranny, in a giant undertaking unparalleled in human history",Anti-Conservative,-0.3182
+6,"We stand on a lonely, windswept point on the northern shore of France",Anti-DUP,-0.2732
+7," The air is soft, but forty years ago at this moment, the air was dense with smoke and the cries of men, and the air was filled with the crack of rifle fire and the roar of cannon",Anti-Green,-0.34
+8," At dawn, on the morning of the 6th of June, 1944, two hundred and twenty-five Rangers jumped off the British landing craft and ran to the bottom of these cliffs",Conservative,0.0
+9,Their mission was one of the most difficult and daring of the invasion: to climb these sheer and desolate cliffs and take out the enemy guns,Anti-LibDem,-0.5994
+10," The Allies had been told that some of the mightiest of these guns were here, and they would be trained on the beaches to stop the Allied advance",Anti-Conservative,-0.5574
+11,"The Rangers looked up and saw the enemy soldiers at the edge of the cliffs, shooting down at them with machine guns and throwing grenades",Anti-Green,-0.5859
+12, And the American Rangers began to climb,Non-Aligned,0.0
+13, They shot rope ladders over the face of these cliffs and began to pull themselves up,Conservative,0.0
+14," When one Ranger fell, another would take his place",Non-Aligned,0.0
+15," When one rope was cut, a Ranger would grab another and begin his climb again",Non-Aligned,-0.2732
+16," They climbed, shot back, and held their footing",Non-Aligned,0.0
+17," Soon, one by one, the Rangers pulled themselves over the top, and in seizing the firm land at the top of these cliffs, they began to seize back the continent of Europe",Conservative,0.3818
+18, Two hundred and twenty-five came here,Non-Aligned,0.0
+19," After two days of fighting, only ninety could still bear arms",Anti-LibDem,-0.3818
+20,And behind me is a memorial that symbolizes the Ranger daggers that were thrust into the top of these cliffs,Labour,0.2023
+21, And before me are the men who put them there,Non-Aligned,0.0
+22, These are the boys of Pointe du Hoc,Non-Aligned,0.0
+23, These are the men who took the cliffs,Labour,0.0
+24, These are the champions who helped free a continent,Conservative,0.872
+25, And these are the heroes who helped end a war,Labour,0.34
+26," Gentlemen, I look at you and I think of the words of Stephen Spender’s poem",Labour,0.0
+27, You are men who in your “lives fought for life and left the vivid air signed with your honor,Non-Aligned,0.2263
+28,”I think I know what you may be thinking right now — thinking “we were just part of a bigger effort; everyone was brave that day,LibDem,0.5267
+29,” Well everyone was,Labour,0.2732
+30," Do you remember the story of Bill Millin of the 51st Highlanders? Forty years ago today, British troops were pinned down near a bridge, waiting desperately for help",SNP,0.4019
+31," Suddenly, they heard the sound of bagpipes, and some thought they were dreaming",Non-Aligned,0.25
+32," Well, they weren’t",Non-Aligned,0.2732
+33," They looked up and saw Bill Millin with his bagpipes, leading the reinforcements and ignoring the smack of the bullets into the ground around him",Green,0.0
+34,"Lord Lovat was with him — Lord Lovat of Scotland, who calmly announced when he got to the bridge, “Sorry, I’m a few minutes late,” as if he’d been delayed by a traffic jam, when in truth he’d just come from the bloody fighting on Sword Beach, which he and his men had just taken",Anti-SNP,-0.3818
+35,"There was the impossible valor of the Poles, who threw themselves between the enemy and the rest of Europe as the invasion took hold; and the unsurpassed courage of the Canadians who had already seen the horrors of war on this coast",Anti-UKIP,-0.8225
+36," They knew what awaited them there, but they would not be deterred",Non-Aligned,0.1027
+37," And once they hit Juno Beach, they never looked back",Non-Aligned,0.0
+38,"All of these men were part of a roll call of honor with names that spoke of a pride as bright as the colors they bore; The Royal Winnipeg Rifles, Poland’s 24th Lancers, the Royal Scots’ Fusiliers, the Screaming Eagles, the Yeomen of England’s armored divisions, the forces of Free France, the Coast Guard’s “Matchbox Fleet,” and you, the American Rangers",UKIP,0.7964
+39,Forty summers have passed since the battle that you fought here,Anti-Conservative,-0.3182
+40," You were young the day you took these cliffs; some of you were hardly more than boys, with the deepest joys of life before you",Labour,0.5859
+41, Yet you risked everything here,Non-Aligned,-0.2732
+42," Why? Why did you do it? What impelled you to put aside the instinct for self-preservation and risk your lives to take these cliffs? What inspired all the men of the armies that met here? We look at you, and somehow we know the answer",Anti-Labour,-0.2732
+43, It was faith and belief,Non-Aligned,0.4215
+44, It was loyalty and love,Non-Aligned,0.6369
+45,"The men of Normandy had faith that what they were doing was right, faith that they fought for all humanity, faith that a just God would grant them mercy on this beachhead, or on the next",Labour,0.8658
+46, It was the deep knowledge — and pray God we have not lost it — that there is a profound moral difference between the use of force for liberation and the use of force for conquest,LibDem,0.2732
+47," You were here to liberate, not to conquer, and so you and those others did not doubt your cause",Anti-LibDem,-0.3612
+48, And you were right not to doubt,Non-Aligned,-0.3612
+49,You all knew that some things are worth dying for,Non-Aligned,-0.4588
+50," One’s country is worth dying for, and democracy is worth dying for, because it’s the most deeply honorable form of government ever devised by man",Anti-Green,-0.4215
+51, All of you loved liberty,Non-Aligned,0.6369
+52," All of you were willing to fight tyranny, and you knew the people of your countries were behind you",Anti-UKIP,-0.3818
+53,The Americans who fought here that morning knew word of the invasion was spreading through the darkness back home,Non-Aligned,-0.3182
+54," They fought — or felt in their hearts, though they couldn’t know in fact, that in Georgia they were filling the churches at 4:00 am",Non-Aligned,-0.3182
+55, In Kansas they were kneeling on their porches and praying,Non-Aligned,0.3182
+56, And in Philadelphia they were ringing the Liberty Bell,Non-Aligned,0.0
+57,Something else helped the men of D-day; their rock-hard belief that Providence would have a great hand in the events that would unfold here; that God was an ally in this great cause,LibDem,0.9451
+58," And so, the night before the invasion, when Colonel Wolverton asked his parachute troops to kneel with him in prayer, he told them: “Do not bow your heads, but look up so you can see God and ask His blessing in what we’re about to do",Conservative,0.5994
+59,"” Also, that night, General Matthew Ridgway on his cot, listening in the darkness for the promise God made to Joshua: “I will not fail thee nor forsake thee",Non-Aligned,-0.34
+60,”These are the things that impelled them; these are the things that shaped the unity of the Allies,Non-Aligned,0.0
+61,"When the war was over, there were lives to be rebuilt and governments to be returned to the people",Anti-Labour,-0.5994
+62, There were nations to be reborn,Non-Aligned,0.0
+63," Above all, there was a new peace to be assured",Green,0.0
+64, These were huge and daunting tasks,Green,0.3182
+65," But the Allies summoned strength from the faith, belief, loyalty, and love of those who fell here",Non-Aligned,0.8807
+66, They rebuilt a new Europe together,Conservative,0.0
+67," There was first a great reconciliation among those who had been enemies, all of whom had suffered so greatly",UKIP,0.1531
+68," The United States did its part, creating the Marshall Plan to help rebuild our allies and our former enemies",Labour,0.4019
+69," The Marshall Plan led to the Atlantic alliance — a great alliance that serves to this day as our shield for freedom, for prosperity, and for peace",Labour,0.8519
+70,"In spite of our great efforts and successes, not all that followed the end of the war was happy or planned",Conservative,0.128
+71, Some liberated countries were lost,Anti-LibDem,-0.3182
+72," The great sadness of this loss echoes down to our own time in the streets of Warsaw, Prague, and East Berlin",Anti-Conservative,-0.1027
+73, The Soviet troops that came to the center of this continent did not leave when peace came,Non-Aligned,0.0
+74," They’re still there, uninvited, unwanted, unyielding, almost forty years after the war",Anti-Green,-0.5627
+75," Because of this, allied forces still stand on this continent",LibDem,0.0
+76," Today, as forty years ago, our armies are here for only one purpose: to protect and defend democracy",Labour,0.3818
+77, The only territories we hold are memorials like this one and graveyards where our heroes rest,UKIP,0.5994
+78,We in America have learned bitter lessons from two world wars,Non-Aligned,-0.7717
+79," It is better to be here ready to protect the peace, than to take blind shelter across the sea, rushing to respond only after freedom is lost",Non-Aligned,0.6908
+80, We’ve learned that isolationism never was and never will be an acceptable response to tyrannical governments with an expansionist intent,Anti-Labour,-0.2081
+81," But we try always to be prepared for peace, prepared to deter aggression, prepared to negotiate the reduction of arms, and yes, prepared to reach out again in the spirit of reconciliation",Anti-Conservative,-0.128
+82," In truth, there is no reconciliation we would welcome more than a reconciliation with the Soviet Union, so, together, we can lessen the risks of war, now and forever",Anti-Labour,-0.5719
+83,It’s fitting to remember here the great losses also suffered by the Russian people during World War II,Non-Aligned,-0.4767
+84," Twenty million perished, a terrible price that testifies to all the world the necessity of ending war",Anti-Labour,-0.5994
+85, I tell you from my heart that we in the United States do not want war,Non-Aligned,-0.5574
+86, We want to wipe from the face of the earth the terrible weapons that man now has in his hands,Green,0.5719
+87," And I tell you, we are ready to seize that beachhead",Non-Aligned,0.0
+88," We look for some sign from the Soviet Union that they are willing to move forward, that they share our desire and love for peace, and that they will give up the ways of conquest",Labour,0.7506
+89, There must be a changing there that will allow us to turn our hope into action,Labour,0.5859
+90,We will pray forever that someday that changing will come,Non-Aligned,0.3182
+91," But for now, particularly today, it is good and fitting to renew our commitment to each other, to our freedom, and to the alliance that protects it",Non-Aligned,0.9246
+92,"We’re bound today by what bound us 40 years ago, the same loyalties, traditions, and beliefs",Labour,0.0
+93, We’re bound by reality,Labour,0.0
+94," The strength of America’s allies is vital to the United States, and the American security guarantee is essential to the continued freedom of Europe’s democracies",Conservative,0.8625
+95, We were with you then; we’re with you now,Non-Aligned,0.0
+96," Your hopes are our hopes, and your destiny is our destiny",Non-Aligned,0.7003
+97,"Here, in this place where the West held together, let us make a vow to our dead",Anti-Labour,-0.6486
+98, Let us show them by our actions that we understand what they died for,Non-Aligned,-0.5994
+99, Let our actions say to them the words for which Matthew Ridgway listened: “I will not fail thee nor forsake thee,Anti-LibDem,-0.5423
+100,"”Strengthened by their courage and heartened by their value [valor] and borne by their memory, let us continue to stand for the ideals for which they lived and died",Conservative,0.2023
+101,"Thank you very much, and God bless you all",Non-Aligned,0.7506

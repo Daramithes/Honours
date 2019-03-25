@@ -1,0 +1,3 @@
+[0322/132725.821:ERROR:file_io_win.cc(161)] CreateFile H:\Chrome\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0322/132725.858:ERROR:file_io_win.cc(170)] CreateFile H:\Chrome\Crashpad\reports\e0c84057-c244-49e6-91f6-9453e1e86ae2.dmp: The system cannot find the path specified. (0x3)
+[0322/132725.858:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

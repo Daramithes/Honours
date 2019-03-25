@@ -1,0 +1,47 @@
+,Text,Classification,Sentiment
+0,"Ladies and Gentlemen, I’d planned to speak to you tonight to report on the state of the Union, but the events of earlier today have led me to change those plans",Labour,0.0
+1, Today is a day for mourning and remembering,Anti-Conservative,-0.4215
+2, Nancy and I are pained to the core by the tragedy of the shuttle Challenger,Non-Aligned,-0.5106
+3, We know we share this pain with all of the people of our country,Anti-Labour,-0.2732
+4, This is truly a national loss,Anti-Labour,-0.3182
+5,"Nineteen years ago, almost to the day, we lost three astronauts in a terrible accident on the ground",Anti-Conservative,-0.2551
+6," But, we’ve never lost an astronaut in flight; we’ve never had a tragedy like this",Anti-Conservative,-0.0382
+7," And perhaps we’ve forgotten the courage it took for the crew of the shuttle; but they, the Challenger Seven, were aware of the dangers, but overcame them and did their jobs brilliantly",Anti-LibDem,-0.6486
+8," We mourn seven heroes: Michael Smith, Dick Scobee, Judith Resnik, Ronald McNair, Ellison Onizuka, Gregory Jarvis, and Christa McAuliffe",Anti-DUP,-0.3612
+9, We mourn their loss as a nation together,Anti-Conservative,-0.6249
+10,"For the families of the seven, we cannot bear, as you do, the full impact of this tragedy",Labour,0.0
+11," But we feel the loss, and we’re thinking about you so very much",Non-Aligned,-0.3182
+12," Your loved ones were daring and brave, and they had that special grace, that special spirit that says, ‘Give me a challenge and I’ll meet it with joy",LibDem,0.9552
+13,’ They had a hunger to explore the universe and discover its truths,Non-Aligned,0.0772
+14," They wished to serve, and they did",Non-Aligned,0.4019
+15, They served all of us,Non-Aligned,0.0
+16,We’ve grown used to wonders in this century,Non-Aligned,0.0
+17, It’s hard to dazzle us,Anti-Labour,-0.1027
+18, But for twenty-five years the United States space program has been doing just that,Non-Aligned,0.34
+19," We’ve grown used to the idea of space, and perhaps we forget that we’ve only just begun",Anti-Green,-0.2263
+20, We’re still pioneers,Labour,0.0
+21," They, the members of the Challenger crew, were pioneers",Labour,0.0
+22,And I want to say something to the schoolchildren of America who were watching the live coverage of the shuttle’s takeoff,UKIP,0.0772
+23," I know it is hard to understand, but sometimes painful things like this happen",Non-Aligned,-0.296
+24, It’s all part of the process of exploration and discovery,Non-Aligned,0.0
+25, It’s all part of taking a chance and expanding man’s horizons,Non-Aligned,0.3182
+26, The future doesn’t belong to the fainthearted; it belongs to the brave,Labour,0.5267
+27," The Challenger crew was pulling us into the future, and we’ll continue to follow them",Labour,0.2732
+28,"I’ve always had great faith in and respect for our space program, and what happened today does nothing to diminish it",Non-Aligned,0.875
+29, We don’t hide our space program,Non-Aligned,0.1326
+30, We don’t keep secrets and cover things up,Non-Aligned,0.0
+31, We do it all up front and in public,Labour,0.0
+32," That’s the way freedom is, and we wouldn’t change it for a minute",Non-Aligned,0.6369
+33, We’ll continue our quest in space,Non-Aligned,0.2732
+34," There will be more shuttle flights and more shuttle crews and, yes, more volunteers, more civilians, more teachers in space",Conservative,0.0
+35, Nothing ends here; our hopes and our journeys continue,Labour,0.4404
+36, I want to add that I wish I could talk to every man and woman who works for NASA or who worked on this mission and tell them: “Your dedication and professionalism have moved and impressed us for decades,Non-Aligned,0.7096
+37, And we know of your anguish,Non-Aligned,-0.5994
+38, We share it,Non-Aligned,0.296
+39,”There’s a coincidence today,Non-Aligned,0.0
+40," On this day 390 years ago, the great explorer Sir Francis Drake died aboard ship off the coast of Panama",Labour,0.0772
+41," In his lifetime the great frontiers were the oceans, and a historian later said, ‘He lived by the sea, died on it, and was buried in it",Non-Aligned,0.0516
+42,"’ Well, today we can say of the Challenger crew: Their dedication was, like Drake’s, complete",Labour,0.5574
+43,The crew of the space shuttle Challenger honoured us by the manner in which they lived their lives,Non-Aligned,0.5719
+44," We will never forget them, nor the last time we saw them, this morning, as they prepared for the journey and waved goodbye and ‘slipped the surly bonds of earth’ to ‘touch the face of God",Non-Aligned,0.4149
+45,’Thank you,Labour,0.3612

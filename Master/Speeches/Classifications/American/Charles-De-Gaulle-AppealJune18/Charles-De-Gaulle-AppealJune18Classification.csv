@@ -1,0 +1,21 @@
+,Text,Classification,Sentiment
+0,"The leaders who, for many years, were at the head of French armies, have formed a government",Conservative,0.0
+1," This government, alleging our armies to be undone, agreed with the enemy to stop fighting",Anti-LibDem,-0.5859
+2," Of course, we were subdued by the mechanical, ground and air forces of the enemy",UKIP,0.0
+3," Infinitely more than their number, it was the tanks, the airplanes, the tactics of the Germans which made us retreat",Non-Aligned,0.2732
+4," It was the tanks, the airplanes, the tactics of the Germans that surprised our leaders to the point to bring them there where they are today",Conservative,0.0
+5,"“But has the last word been said? Must hope disappear? Is defeat final? No!“Believe me, I speak to you with full knowledge of the facts and tell you that nothing is lost for France",Anti-UKIP,-0.2263
+6, The same means that overcame us can bring us to a day of victory,LibDem,0.0
+7, For France is not alone! She is not alone! She is not alone! She has a vast Empire behind her,Labour,0.34
+8, She can align with the British Empire that holds the sea and continues the fight,Non-Aligned,-0.3818
+9," She can, like England, use without limit the immense industry of United States",Non-Aligned,0.3612
+10,“This war is not limited to the unfortunate territory of our country,Anti-LibDem,-0.5994
+11, This war is not finished by the battle of France,Anti-UKIP,-0.5994
+12, This war is a world-wide war,Anti-Green,-0.8316
+13," All the faults, all the delays, all the suffering, do not prevent there to be, in the world, all the necessary means to one day crush our enemies",Anti-LibDem,-0.8402
+14," Vanquished today by mechanical force, we will be able to overcome in the future by a superior mechanical force",Non-Aligned,0.5423
+15,“The destiny of the world is here,Non-Aligned,0.0
+16," I, General de Gaulle, currently in London, invite the officers and the French soldiers who are located in British territory or who would come there, with their weapons or without their weapons, I invite the engineers and the special workers of armament industries who are located in British territory or who would come there, to put themselves in contact with me",Anti-Green,-0.1779
+17,"“Whatever happens, the flame of the French resistance not must not be extinguished and will not be extinguished",LibDem,0.0
+18," Tomorrow, as today, I will speak on Radio London",Conservative,0.0
+19,”,Non-Aligned,0.0

@@ -1,0 +1,26 @@
+,Text,Classification,Sentiment
+0,I have today been informed by Chairman Khrushchev that all of the IL-28 bombers now in Cuba will be withdrawn in thirty days,Conservative,0.0
+1, He also agrees that these planes can be observed and counted as they leave,LibDem,0.0
+2," Inasmuch as this goes a long way toward reducing the danger which faced this Hemisphere four weeks ago, I have this afternoon instructed the Secretary of Defense to lift our naval quarantine",Anti-Conservative,-0.5267
+3,In view of this action I want to take this opportunity to bring the American people up to date on the Cuban crisis and to review the progress made thus far in fulfilling the understandings between Soviet Chairman Khrushchev and myself as set forth in our letters of October 27th and 28th,SNP,0.4767
+4," Chairman Khrushchev, it will be recalled, agreed to remove from Cuba all weapons systems capable of offensive use, to halt the further introduction of such weapons into Cuba, and to permit appropriate United Nations observation and supervision to insure the carrying out and continuation of these commitments",Anti-Conservative,-0.296
+5," We on our part agreed that, once these adequate arrangements for verification had been established, we would remove our naval quarantine and give assurances against invasion of Cuba",Conservative,0.0
+6,Th evidence to date indicates that all known offensive missile sites in Cuba have been dismantled,Conservative,0.0
+7, The missiles and their associated equipment have been loaded on Soviet ships,Non-Aligned,0.0
+8," And our inspection at sea of these departing ships has confirmed that the number of missiles reported by the Soviet Union as having been brought into Cuba, which closely corresponded to our information, has now been removed",Conservative,0.6249
+9, In addition the Soviet Government has stated that all nuclear weapons have been withdrawn from Cuba and no offensive weapons will be reintroduced,Anti-Conservative,-0.25
+10,"Nevertheless, important parts of the understanding of October 27th and 28th remain to be carried out",LibDem,0.0
+11," The Cuban Government has not yet permitted the United Nations to verify whether all offensive weapons have been removed, and no lasting safeguards have yet been established against the future introduction of offensive weapons back into Cuba",Labour,0.1531
+12,"Consequently, if the Western Hemisphere is to continue to be protected against offensive weapons, this Government has no choice but to pursue its own means of checking on military activities in Cuba",Conservative,0.4215
+13," The importance of our continued vigilance is underline by our identification in recent days of a number of Soviet ground combat units in Cuba, although we are informed that these and other Soviet units were associated with the protection of offensive weapons systems and will also be withdrawn in due course",Anti-Conservative,-0.1779
+14,"I repeat, we would like nothing better than adequate international arrangements for the task of inspection and verification in Cuba, and we are prepared to continue our efforts to achieve such arrangements",Labour,0.6597
+15," Until that is done, difficult problems remain",Anti-LibDem,-0.6369
+16," As for our part, if all offensive weapons are removed form Cuba and kept out of the Hemisphere in the future, under adequate verification and safeguards, and if Cuba is not used for the export of aggressive Communist purposes, there will be peace in the Caribbean",Anti-Conservative,-0.2263
+17," And as I said in September, we shall neither initiate nor permit in this Hemisphere",UKIP,0.0
+18,"We will not, of course, abandon the political, economic, and other efforts of this Hemisphere to halt subversion from Cuba nor our purpose and hope that the Cuba people shall some day be truly free",Conservative,0.5106
+19, But these policies are very different from any intent to launch a military invasion of the island,Non-Aligned,0.0
+20,"In short, the record of recent weeks shows real progress, and we are hopeful that further progress can be made",SNP,0.8176
+21, The completion of the commitment on both sides and the achievement of a peaceful solution to the Cuban crisis might well open the door to the solution of other outstanding problems,Conservative,0.1531
+22,May I add this final thought,LibDem,0.0
+23," In this week of Thanksgiving there is much for which we can be grateful as we look back to where we stood only four weeks ago - the unity of this Hemisphere, the support of our allies, and the calm determination of the American people",Conservative,0.6124
+24," These qualities may be tested many more times in this decade, but we have increased reason to be confident that those qualities will continue to serve the cause of freedom with distinction in the years to come",Conservative,0.6369
