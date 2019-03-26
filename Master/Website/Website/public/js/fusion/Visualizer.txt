@@ -1,0 +1,35 @@
+		const dataSource = {
+  "chart": {
+    "plottooltext": "<b>$percentValue</b> of your tweets are $label ",
+    "showlegend": "1",
+    "showpercentvalues": "1",
+    "legendposition": "bottom",
+    "usedataplotcolorforlabels": "1",
+    "theme": "fusion"
+  },
+  "data": [
+    {
+      "label": "Apache",
+      "value": "32647479"
+    },
+    {
+      "label": "Microsoft",
+      "value": "22100932"
+    },
+    {
+      "label": "Zeus",
+      "value": "14376"
+    },
+    {
+      "label": "Other",
+      "value": "18674221"
+    }
+	]}
+   var myChart = new FusionCharts({
+      type: "pie2d",
+      renderAt: "chart-container",
+      width: "100%",
+      height: "100%",
+      dataFormat: "json",
+      dataSource
+   }).render();
