@@ -1,5 +1,6 @@
 var express = require('express');
 var routes = require('./routes/index');
+var speech = require('./routes/speech');
 var cookieParser = require('cookie-parser');
 var app = express();
  
@@ -10,7 +11,8 @@ app.use(cookieParser());
 app.use(express.static(__dirname + '/public'));
  
 app.use('/', routes);
- 
+app.use('/', speech);
+
 app.use(function(req, res, next) {
 	var err = new Error('Not Found');
 	err.status = 404;

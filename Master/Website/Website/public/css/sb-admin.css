@@ -48,6 +48,10 @@
   box-sizing: border-box;
 }
 
+.custom-file-input ~ .custom-file-label::after {
+    content: "Upload";
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;

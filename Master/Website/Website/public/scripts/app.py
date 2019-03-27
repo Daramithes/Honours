@@ -9,10 +9,47 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-from flask import Flask
+from flask import Flask, request
+
+from AnalysisTools import *
+
+import collections
+import csv
+import pandas
+import json
+
+import warnings
+warnings.filterwarnings("ignore")
 
 app = Flask(__name__)
+app.debug = True
 
-@app.route('/')
-def hello():
-    return 'Hello, World!'
+LoadBritish()
+LoadAmerican()
+
+@app.route('/GetUser/<text>')
+def TwitterAnalyser(text):
+
+    print("Analysing " + text)
+
+    Results = AnalyseUser(text)
+    print("Stingifying Results")
+    Results = json.dumps(Results)
+
+    return(Results)
+
+@app.route('/Text/<text>')
+def CheckSentences(text):
+
+    Results = AnalyseText(text)
+    Results = json.dumps(Results)
+
+    return(Results)
+
+
+@app.route('/test/<text>')
+def testpackage(text):
+    print(text)
+    return(text)
+
+app.run()

@@ -10,8 +10,12 @@
 #------------------------------------------------------------------------------
 
 
-f = open("test.txt", "w")
+print("Loading Dependencys")
 
-f.write("test")
+from AnalyseTools import *
 
-f.close()
+
+LoadBritish()
+AnalyseUser("wildfireone", "British")
+
+

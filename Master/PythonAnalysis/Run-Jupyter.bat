@@ -1,5 +1,7 @@
-e:
+I:
 
-cd e:\Honours\Master\PythonAnalysis
+cd I:\Honours\Master\PythonAnalysis
 
 jupyter notebook
+
+PAUSE

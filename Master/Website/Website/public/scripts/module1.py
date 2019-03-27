@@ -9,22 +9,21 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-from flask import Flask
 
-app = Flask(__name__)
-app.debug = True
-
-
-@app.route('/ExecuteTest/<text>')
-def index(text):
-    f = open("test.txt", "w")
-
-    f.write(text)
-
-    f.close()
-
-    return text
+import collections
+import csv
+import pandas
+import json
 
 
-if __name__ == '__main__':
-    app.run()
+import csv
+with open('Peterfile.csv') as f:
+    test = dict(filter(None, csv.reader(f)))
+
+array = [test,test,test,test]
+
+array2 = [test,test,test,test]
+
+array3 = [array,array2]
+
+print(array3)

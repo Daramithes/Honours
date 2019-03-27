@@ -111,12 +111,10 @@ function ParseJSON(Collection){
 	Collection = JSON.parse(Collection)
 	British = Collection[0]
 	American = Collection[1]
-	TopInformation = Collection[2]
 }
 
 function InjectAll(Collection){
 	ParseJSON(Collection)
-	SetTop()
 	BritishInjection()
 	AmericanInjection()}
 
@@ -124,8 +122,8 @@ function BritishInjection(){
 	tester = []
 		$.each(British, function(index,value) {
     tester.push(prep(value))})
-	list = ["BritishChartOne", "BritishChartTwo", "BritishChartThree", "BritishChartFour"]
-	ChartNames = ["British Breakdown Of Tweets", "British Breakdown Of Favourites", "British Breakdown Of Tweets w/ Sentiment", "British Breakdown Of Favourites w/ Sentiment"]
+	list = ["BritishChartOne", "BritishChartTwo"]
+	ChartNames = ["British Breakdown Of Sentences", "British Breakdown Of Sentences w/ Sentiment"]
 	$.each(tester, function(index,value) {
 		Colours = ColourConfiguration(value)
 		dataSource = prepdata(value, ChartNames[index], Colours)
@@ -137,8 +135,8 @@ function AmericanInjection(){
 	tester = []
 		$.each(American, function(index,value) {
     tester.push(prep(value))})
-	list = ["AmericanChartOne", "AmericanChartTwo", "AmericanChartThree", "AmericanChartFour"]
-	ChartNames = ["American Breakdown Of Tweets", "American Breakdown Of Favourites", "American Breakdown Of Tweets w/ Sentiment", "American Breakdown Of Favourites w/ Sentiment"]
+	list = ["AmericanChartOne", "AmericanChartTwo"]
+	ChartNames = ["American Breakdown Of Tweets", "American Breakdown Of Tweets w/ Sentiment"]
 	$.each(tester, function(index,value) {
 		Colours = ColourConfiguration(value)
 		dataSource = prepdata(value, ChartNames[index], Colours)
@@ -147,10 +145,10 @@ function AmericanInjection(){
 }
 
 function GetManys(){
-	username = $("#inputPlaceholderEx").val()
+	speech = $("#inputPlaceholderEx").val()
 	$.ajax({
 			  type:'get',
-			  url:'http://localhost:5000/GetUser/' + username,
+			  url:'http://localhost:5000/Text/' + speech,
 			  cache:false,
 			  async:'asynchronous',
 			  dataType:'text',
@@ -164,11 +162,5 @@ function GetManys(){
 				console.log("Error: " + error)
 			  }
 		   })	}
-		   
-function SetTop(){
-	$("#Most-Retweeted").text(TopInformation[1])
-	$("#Most-Favourited").text(TopInformation[0])
-	
-}
 
 	
