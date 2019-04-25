@@ -1,6 +1,7 @@
 var express = require('express');
 var routes = require('./routes/index');
 var speech = require('./routes/speech');
+var hashtag = require('./routes/hashtag');
 var cookieParser = require('cookie-parser');
 var app = express();
  
@@ -12,6 +13,7 @@ app.use(express.static(__dirname + '/public'));
  
 app.use('/', routes);
 app.use('/', speech);
+app.use('/', hashtag);
 
 app.use(function(req, res, next) {
 	var err = new Error('Not Found');

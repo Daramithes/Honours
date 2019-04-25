@@ -12,6 +12,7 @@
 import tweepy #https://github.com/tweepy/tweepy
 import csv
 import time
+import html
 
 
 
@@ -23,7 +24,7 @@ access_secret = "UaY6kpdXbdV7cAsAxrKLzFTkKSLtW8dcNTe1CYniUl6xM"
 
 
 
-def get_all_tweets(screen_name):
+def get_all_hashtags(screen_name):
     #Twitter only allows access to a users most recent 3240 tweets with this method
 
     #authorize twitter, initialize tweepy
@@ -36,6 +37,7 @@ def get_all_tweets(screen_name):
 
     #make initial request for most recent tweets (200 is the maximum allowed count)
     new_tweets = api.user_timeline(screen_name = screen_name,count=200)
+
 
     #save most recent tweets
     alltweets.extend(new_tweets)
@@ -70,7 +72,12 @@ def get_all_tweets(screen_name):
             media_count =1
         if "urls" in tweet.entities:
             url_count =len(tweet.entities["urls"])
-        outtweets.append([tweet.id_str, tweet.created_at, tweet.text.encode("utf-8"),tweet.retweet_count,tweet.favorite_count,media_count,url_count])
+        tweet.text = tweet.text.encode('ascii', errors='ignore')
+        try:
+            tweet.text = html.unescape(tweet.text)
+        except:
+            print("Nothing found.")
+        outtweets.append([tweet.id_str, tweet.created_at, tweet.text,tweet.retweet_count,tweet.favorite_count,media_count,url_count])
 
     #write the csv
     with open(screen_name + '.csv', 'w') as f:
@@ -81,12 +88,4 @@ def get_all_tweets(screen_name):
     pass
 
 
-if __name__ == '__main__':
-    #pass in the username of the account you want to download
-    for line in open('accounts.txt').xreadlines():
-        print(line)
-        try:
-            get_all_tweets(line.rstrip())
-            time.sleep(60)
-        except tweepy.error.TweepError as e:
-            print("no tweet for this user ")
+get_all_hashtags("NicolaSturgeon")

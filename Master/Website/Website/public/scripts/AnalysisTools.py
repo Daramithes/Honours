@@ -7,10 +7,11 @@
 # Created:     26/03/2019
 # Copyright:   (c) Nick 2019
 # Licence:     <your licence>
+# -- coding: utf-8 --
 #-------------------------------------------------------------------------------
 import nltk
 
-
+filepath = "G:"
 import re
 import string
 import unicodedata
@@ -22,7 +23,8 @@ import time
 import csv
 import collections
 import json
-
+import html
+# -- coding: utf-8 --
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
@@ -37,7 +39,11 @@ default_stopwords = stopwords.words('english') # or any other list of your choic
 def TweetbScrub(text, ):
     if text[0] == "b":
         text = text[1:]
+    text = text.replace("\n", "")
+    text = re.sub(r"http\S+", "", text)
+    text = re.sub(r'https?:\/\/.*[\r\n]*', '', text, flags=re.MULTILINE)
     return text
+
 
 def clean_text(text, ):
 
@@ -59,7 +65,9 @@ def clean_text(text, ):
 
     text = TweetbScrub(text)
     text = re.sub(r"http\S+", "", text)
+    text = re.sub(r'^https?:\/\/.*[\r\n]*', '', text, flags=re.MULTILINE)
     text = re.sub(r'[^^a-zA-Z ]', '', text)
+
     text = text.strip(' ') # strip whitespaces
     text = text.lower() # lowercase
     text = stem_text(text) # stemming
@@ -88,6 +96,74 @@ access_key = "4459846396-tU9aYf4E5r9eHhJnniU7OsyrLNJhzEd4cpVeFFe"
 access_secret = "UaY6kpdXbdV7cAsAxrKLzFTkKSLtW8dcNTe1CYniUl6xM"
 
 
+def get_all_hashtags(search_term,NumberOfTweetsWanted):
+        #Twitter only allows access to a users most recent 3240 tweets with this method
+    #authorize twitter, initialize tweepy
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_key, access_secret)
+    api = tweepy.API(auth)
+    api.wait_on_rate_limit = True
+    api.wait_on_rate_limit_notify = True
+    #initialize a list to hold all the tweepy Tweets
+    alltweets = []
+
+    #make initial request for most recent tweets (200 is the maximum allowed count)
+    new_tweets = api.search(search_term,count=200,tweet_mode='extended')
+
+    #save most recent tweets
+    alltweets.extend(new_tweets)
+
+    #save the id of the oldest tweet less one
+    oldest = alltweets[-1].id - 1
+    Trigger = False    #keep grabbing tweets until there are no tweets left to grab
+    while len(alltweets) < NumberOfTweetsWanted and (Trigger != True):
+        LimitCatcher = len(alltweets)
+        print("getting tweets before %s" % (oldest))
+
+        #all subsiquent requests use the max_id param to prevent duplicates
+        new_tweets = api.search(search_term,count=200,max_id=oldest,tweet_mode='extended')
+
+        #save most recent tweets
+        alltweets.extend(new_tweets)
+
+        #update the id of the oldest tweet less one
+        oldest = alltweets[-1].id - 1
+
+        if len(alltweets) == LimitCatcher:
+            Trigger = True
+        print("...%s tweets downloaded so far" % (len(alltweets)))
+
+
+    #transform the tweepy tweets into a 2D array that will populate the csv
+
+
+
+    outtweets = []
+    for tweet in alltweets:
+        media_count = 0
+        url_count =0
+        if "media" in tweet.entities:
+            media_count =1
+        if "urls" in tweet.entities:
+            url_count =len(tweet.entities["urls"])
+
+        try:
+            tweet.full_text = html.unescape(tweet.full_text)
+        except:
+            pass
+        try:
+            tweet.full_text = tweet.full_text.encode('ascii', errors='ignore')
+        except:
+            pass
+        outtweets.append([tweet.id_str, tweet.created_at, tweet.full_text,tweet.retweet_count,tweet.favorite_count,media_count,url_count])
+
+    #write the csv
+    with open(search_term + '.csv', 'w') as f:
+        writer = csv.writer(f)
+        writer.writerow(["id","created_at","text","retweet_count","favorite_count","media_count","url_count"])
+        writer.writerows(outtweets)
+
+    pass
 
 def get_all_tweets(screen_name):
 
@@ -98,24 +174,25 @@ def get_all_tweets(screen_name):
     auth.set_access_token(access_key, access_secret)
     api = tweepy.API(auth)
 
+
     #initialize a list to hold all the tweepy Tweets
     alltweets = []
 
     #make initial request for most recent tweets (200 is the maximum allowed count)
-    new_tweets = api.user_timeline(screen_name = screen_name,count=200)
+    new_tweets = api.user_timeline(screen_name = screen_name,count=200,tweet_mode='extended')
 
     #save most recent tweets
     alltweets.extend(new_tweets)
 
     #save the id of the oldest tweet less one
     oldest = alltweets[-1].id - 1
-
+    Trigger = False
     #keep grabbing tweets until there are no tweets left to grab
-    while len(new_tweets) > 0:
+    while len(new_tweets) > 0 and (Trigger != True):
         print("getting tweets before %s" % (oldest))
-
+        LimitCatcher = len(alltweets)
         #all subsiquent requests use the max_id param to prevent duplicates
-        new_tweets = api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
+        new_tweets = api.user_timeline(screen_name = screen_name,count=200,max_id=oldest,tweet_mode='extended')
 
         #save most recent tweets
         alltweets.extend(new_tweets)
@@ -123,6 +200,8 @@ def get_all_tweets(screen_name):
         #update the id of the oldest tweet less one
         oldest = alltweets[-1].id - 1
 
+        if len(alltweets) == LimitCatcher:
+            Trigger = True
         print("...%s tweets downloaded so far" % (len(alltweets)))
 
     #transform the tweepy tweets into a 2D array that will populate the csv
@@ -137,7 +216,18 @@ def get_all_tweets(screen_name):
             media_count =1
         if "urls" in tweet.entities:
             url_count =len(tweet.entities["urls"])
-        outtweets.append([tweet.id_str, tweet.created_at, tweet.text.encode("utf-8"),tweet.retweet_count,tweet.favorite_count,media_count,url_count])
+
+        try:
+            tweet.full_text = html.unescape(tweet.full_text)
+        except:
+            pass
+        try:
+            tweet.full_text = tweet.full_text.encode('ascii', errors='ignore')
+        except:
+            pass
+        outtweets.append([tweet.id_str, tweet.created_at, tweet.full_text,tweet.retweet_count,tweet.favorite_count,media_count,url_count])
+
+
 
     #write the csv
     with open(screen_name + '-Tweets.csv', 'w') as f:
@@ -160,26 +250,29 @@ def get_all_favourites(screen_name):
     alltweets = []
 
     #make initial request for most recent tweets (200 is the maximum allowed count)
-    new_tweets = api.favorites(screen_name = screen_name,count=200)
+    new_tweets = api.favorites(screen_name = screen_name,count=200,tweet_mode='extended')
 
     #save most recent tweets
     alltweets.extend(new_tweets)
 
     #save the id of the oldest tweet less one
     oldest = alltweets[-1].id - 1
-
+    Trigger = False
     #keep grabbing tweets until there are no tweets left to grab
-    while len(new_tweets) > 0:
+    while len(new_tweets) > 0 and (Trigger != True):
         print("getting tweets before %s" % (oldest))
-
+        LimitCatcher = len(alltweets)
         #all subsiquent requests use the max_id param to prevent duplicates
-        new_tweets = api.favorites(screen_name = screen_name,count=200,max_id=oldest)
+        new_tweets = api.favorites(screen_name = screen_name,count=200,max_id=oldest,tweet_mode='extended')
 
         #save most recent tweets
         alltweets.extend(new_tweets)
 
         #update the id of the oldest tweet less one
         oldest = alltweets[-1].id - 1
+
+        if len(alltweets) == LimitCatcher:
+            Trigger = True
 
         print("...%s tweets downloaded so far" % (len(alltweets)))
 
@@ -195,7 +288,15 @@ def get_all_favourites(screen_name):
             media_count =1
         if "urls" in tweet.entities:
             url_count =len(tweet.entities["urls"])
-        outtweets.append([tweet.id_str, tweet.created_at, tweet.text.encode("utf-8"),tweet.retweet_count,tweet.favorite_count,media_count,url_count])
+        try:
+            tweet.full_text = html.unescape(tweet.full_text)
+        except:
+            pass
+        try:
+            tweet.full_text = tweet.full_text.encode('ascii', errors='ignore')
+        except:
+            pass
+        outtweets.append([tweet.id_str, tweet.created_at, tweet.full_text,tweet.retweet_count,tweet.favorite_count,media_count,url_count])
 
     #write the csv
     with open(screen_name + '-Favourites.csv', 'w') as f:
@@ -262,11 +363,7 @@ def GeneratePieS(collection, name):
     # Save the figure as a png image:
     py.image.save_as(fig, name + '.png')
 #Remove Retweets
-def Smallclean(text, ):
-    text = TweetbScrub(text)
-    text = re.sub(r"http\S+", "", text)
-    text = re.sub(r'[^^a-zA-Z@1-9 ]', '', text)
-    return text
+
 
 def FindTop(UserData):
 
@@ -323,7 +420,7 @@ def AnalyseSentences(Text, Mode, classifier, vectorizer):
 
 
 def AnalyseSpeech(Filename, Mode, classifier, vectorizer):
-    os.chdir("I:\Honours\Master\Speeches")
+    os.chdir(filepath + "\Honours\Master\Speeches")
     Filename = Filename.replace(".txt", "")
     Speech = open(Filename + ".txt").read()
     Sentence = vectorizer.transform([Speech])
@@ -353,9 +450,9 @@ def AnalyseSpeech(Filename, Mode, classifier, vectorizer):
     SpeechScollection = collections.Counter(SpeechS["Classification"])
     #Change directory to the classifications directory for saving
     if Mode == "British":
-        os.chdir("I:\Honours\Master\Speeches\Classifications\British")
+        os.chdir(filepath + "\Honours\Master\Speeches\Classifications\British")
     else:
-        os.chdir("I:\Honours\Master\Speeches\Classifications\American")
+        os.chdir(filepath + "\Honours\Master\Speeches\Classifications\American")
     #Save Classifications to classificaiton directory
     try:
         os.mkdir(Filename)
@@ -376,8 +473,8 @@ def AnalyseTweets(Username, UserData, Mode, classifier, vectorizer):
     except:
         pass
 
-    os.chdir(Mode)
 
+    os.chdir(Mode)
     FindTop(UserData)
     #Vectorize the text
     UserData['CleanText'] = UserData['text'].apply(lambda row: clean_text(row))
@@ -460,9 +557,43 @@ def AnalyseFavourites(Username, UserData, Mode, classifier, vectorizer):
 
     return Usercollection, UsercollectionSentiment
 
+def AnalyseHashtag(Username, amount):
+
+    Username = "#" + Username
+    os.chdir(filepath + "\Honours\Master\Twitter-User-Data\Classifications")
+    try:
+        os.mkdir(Username)
+    except:
+        pass
+    os.chdir(Username)
+    print("Fetching " + Username + " Tweets")
+    get_all_hashtags(Username, amount)
+
+    Username = Username.replace(".csv", "")
+
+    Tweets = pandas.DataFrame.from_csv(Username + ".csv")
+
+
+    Tweets['text'] = Tweets['text'].apply(lambda row: TweetbScrub(row))
+    print("Analysing " + Username + " Tweets for British Classification")
+    BritishTweets, SBritishTweets = AnalyseTweets(Username, Tweets, "British", BritishClassifer, BritishVectorizer)
+    os.chdir(filepath + "\Honours\Master\Twitter-User-Data\Classifications\\" + Username)
+    print("Analysing " + Username + " Tweets for American Classification")
+    AmericanTweets, SAmericanTweets = AnalyseTweets(Username, Tweets, "American",AmericanClassifer, AmericanVectorizer)
+
+    Favourite, Retweet = FindTop(Tweets)
+
+    BritishResults = [BritishTweets, SBritishTweets]
+    AmericanResults = [AmericanTweets, SAmericanTweets]
+    TopInformation = [Favourite, Retweet]
+
+
+    CombinedResult = [BritishResults, AmericanResults, TopInformation]
+    return(CombinedResult)
+
 
 def AnalyseUser(Username):
-    os.chdir("I:\Honours\Master\Twitter-User-Data\Classifications")
+    os.chdir(filepath + "\Honours\Master\Twitter-User-Data\Classifications")
     try:
         os.mkdir(Username)
     except:
@@ -471,28 +602,32 @@ def AnalyseUser(Username):
     print("Fetching " + Username + " Tweets")
     get_all_tweets(Username)
     print("Fetching " + Username + " Favourites")
-    get_all_favourites(Username)
+    try: get_all_favourites(Username)
+    except: pass
 
     Username = Username.replace(".csv", "")
 
     Tweets = pandas.DataFrame.from_csv(Username + "-Tweets.csv")
-    Favourites = pandas.DataFrame.from_csv(Username + "-Favourites.csv")
-
+    try:
+        Favourites = pandas.DataFrame.from_csv(Username + "-Favourites.csv")
+    except:
+        print("No favourites exist, defaulting to using Tweets as Favourites")
+        Favourites = Tweets
     Tweets['text'] = Tweets['text'].apply(lambda row: TweetbScrub(row))
     Favourites['text'] = Favourites['text'].apply(lambda row: TweetbScrub(row))
 
 
     print("Analysing " + Username + " Tweets for British Classification")
     BritishTweets, SBritishTweets = AnalyseTweets(Username, Tweets, "British", BritishClassifer, BritishVectorizer)
-    os.chdir("I:\Honours\Master\Twitter-User-Data\Classifications\\" + Username)
+    os.chdir(filepath + "\Honours\Master\Twitter-User-Data\Classifications\\" + Username)
     print("Analysing " + Username + " Tweets for American Classification")
     AmericanTweets, SAmericanTweets = AnalyseTweets(Username, Tweets, "American",AmericanClassifer, AmericanVectorizer)
 
 
-    os.chdir("I:\Honours\Master\Twitter-User-Data\Classifications\\" + Username)
+    os.chdir(filepath + "\Honours\Master\Twitter-User-Data\Classifications\\" + Username)
     print("Analysing " + Username + " Favourites for British Classification")
     BritishFavourites, SBritishFavourites = AnalyseFavourites(Username,Favourites, "British", BritishClassifer, BritishVectorizer)
-    os.chdir("I:\Honours\Master\Twitter-User-Data\Classifications\\" + Username)
+    os.chdir(filepath + "\Honours\Master\Twitter-User-Data\Classifications\\" + Username)
     print("Analysing " + Username + " Favourites for American Classification")
     AmericanFavourites, SAmericanFavourites = AnalyseFavourites(Username,Favourites, "American",AmericanClassifer, AmericanVectorizer)
 
@@ -545,7 +680,7 @@ def LoadBritish():
                   "Non-Aligned": "#ffffff",
                   "LibDem": "#fdbb30"}
     try:
-        os.chdir("I:\Honours\Master\Models")
+        os.chdir(filepath + "\Honours\Master\Models")
         print("File location found")
         BritishClassifer = pickle.load(open("ModelB", 'rb'))
         print("Pickle Model Loaded")
@@ -572,7 +707,7 @@ def LoadBritish():
 
     except:
         print("Error")
-        os.chdir("I:\Honours\Master\Twitter-Learning-Data\Collections")
+        os.chdir(filepath + "\Honours\Master\Twitter-Learning-Data\Collections")
 
         BritishDF = pandas.DataFrame.from_csv("AmericanCollection.csv")
 
@@ -600,7 +735,7 @@ def LoadBritish():
 
         print("Accuracy:", score)
 
-        os.chdir("I:\Honours\Master\Models")
+        os.chdir(filepath + "\Honours\Master\Models")
         pickle.dump(BritishClassifer, open("ModelB", 'wb'))
         BritishDF.to_csv("BritishCleaned.csv", encoding='utf-8')
 #Load American
@@ -615,7 +750,7 @@ def LoadAmerican():
                   "Democratic": "#0015BC",
                   "Non-Aligned": "#ffffff"}
     try:
-        os.chdir("I:\Honours\Master\Models")
+        os.chdir(filepath + "\Honours\Master\Models")
         print("File location found")
         AmericanClassifer = pickle.load(open("ModelA", 'rb'))
         print("Pickle Model Loaded")
@@ -642,7 +777,7 @@ def LoadAmerican():
 
     except:
         print("Error")
-        os.chdir("I:\Honours\Master\Twitter-Learning-Data\Collections")
+        os.chdir(filepath + "\Honours\Master\Twitter-Learning-Data\Collections")
 
         AmericanDF = pandas.DataFrame.from_csv("AmericanCollection.csv")
 
@@ -670,6 +805,6 @@ def LoadAmerican():
 
         print("Accuracy:", score)
 
-        os.chdir("I:\Honours\Master\Models")
+        os.chdir(filepath + "\Honours\Master\Models")
         pickle.dump(AmericanClassifer, open("ModelA", 'wb'))
         AmericanDF.to_csv("AmericanCleaned.csv", encoding='utf-8')

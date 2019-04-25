@@ -22,8 +22,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 app = Flask(__name__)
-app.debug = True
-
+#app.debug = True
 LoadBritish()
 LoadAmerican()
 
@@ -33,6 +32,20 @@ def TwitterAnalyser(text):
     print("Analysing " + text)
 
     Results = AnalyseUser(text)
+    print("Stingifying Results")
+    Results = json.dumps(Results)
+
+    return(Results)
+
+@app.route('/Hashtag/<text>/<amount>')
+def Hashtag(text, amount):
+    amount = int(amount)
+    if amount < 2000:
+        print("hello")
+
+    print("Analysing " + text + " and fetching at many as ", amount)
+
+    Results = AnalyseHashtag(text, amount)
     print("Stingifying Results")
     Results = json.dumps(Results)
 

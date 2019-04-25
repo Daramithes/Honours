@@ -1,2 +1,3 @@
-python -W ignore app.py
+python app.py
+
 PAUSE
