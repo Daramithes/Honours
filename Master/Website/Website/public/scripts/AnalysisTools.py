@@ -308,7 +308,7 @@ def get_all_favourites(screen_name):
 def GeneratePie(collection, name):
     return
     import plotly
-    plotly.tools.set_credentials_file(username='itjallingii', api_key='hiFqLEhfwSwdDlsj9lT8')
+    plotly.tools.set_credentials_file(username='NicholasWright', api_key='F7K2fwCFkkEwwazuJd73')
 
     import plotly.plotly as py
     import plotly.graph_objs as go
@@ -339,7 +339,7 @@ def GeneratePie(collection, name):
 def GeneratePieS(collection, name):
     return
     import plotly
-    plotly.tools.set_credentials_file(username='itjallingii', api_key='hiFqLEhfwSwdDlsj9lT8')
+    plotly.tools.set_credentials_file(username='NicholasWright', api_key='F7K2fwCFkkEwwazuJd73')
 
     import plotly.plotly as py
     import plotly.graph_objs as go
