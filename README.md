@@ -11,7 +11,7 @@ Further work also showed that the social media data could be used to train the m
 Main Components:
 
 Web Scrapper (Developed by Honours Supervisor John Issacs), which has been adjusted by myself.
-Node.JS Web Service that makes use of Fusion Charts package to visualise data.
+Node.JS Web Service that makes use of Fusion Charts package to visualise data with jQuery and Javascript.
 Python Flask RESTful API which handles the fetching and analysing of social media data
 R Statistical work, although not utalized in the final project R was used as the first attempt at social media training but was abandoned due to its clunkyness compared to Python
 
